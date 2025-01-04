@@ -1,0 +1,913 @@
+2025.01.03 23:44:27 INFO  Started: Metals version 1.4.2 in folders '/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api' for client Visual Studio Code 1.93.1.[0m
+2025.01.03 23:44:27 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.03 23:44:29 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.03 23:44:32 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.03 23:44:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/metals.sbt[0m
+2025.01.03 23:44:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project/metals.sbt[0m
+2025.01.03 23:44:32 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.03 23:44:32 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.03 23:44:32 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.03 23:44:33 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.03 23:44:33 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.03 23:44:34 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.03 23:44:34 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.03 23:44:34 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.03 23:44:36 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.03 23:44:36 INFO  [info] compiling 1 Scala source to /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2025.01.03 23:44:37 INFO  [info] done compiling[0m
+2025.01.03 23:44:37 INFO  [success] Total time: 2 s, completed Jan 3, 2025, 11:44:37 PM[0m
+2025.01.03 23:44:37 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.03 23:44:38 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.03 23:44:38 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.03 23:44:38 INFO  [success] Generated .bloop/root.json[0m
+2025.01.03 23:44:38 INFO  [success] Total time: 0 s, completed Jan 3, 2025, 11:44:38 PM[0m
+2025.01.03 23:44:38 INFO  time: ran 'sbt bloopInstall' in 6.92s[0m
+2025.01.03 23:44:38 INFO  Attempting to connect to the build server...[0m
+2025.01.03 23:44:38 INFO  Found a Bloop server running[0m
+2025.01.03 23:44:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.03 23:44:39 INFO  Attempting to connect to the build server...[0m
+2025.01.03 23:44:39 INFO  Found a Bloop server running[0m
+2025.01.03 23:44:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.03 23:44:39 INFO  time: Connected to build server in 0.28s[0m
+2025.01.03 23:44:39 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.03 23:44:39 INFO  running doctor check[0m
+2025.01.03 23:44:39 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.03 23:44:43 INFO  time: indexed workspace in 4.43s[0m
+2025.01.03 23:44:43 INFO  compiling essential-scala-api-build (1 scala source)[0m
+2025.01.03 23:44:43 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.20. Compiling...[0m
+2025.01.03 23:44:49 INFO  Compilation completed in 5.339s.[0m
+2025.01.03 23:44:49 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:49 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:49 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:44:50 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:50 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:44:51 INFO  time: compiled essential-scala-api-build in 7.69s[0m
+2025.01.03 23:44:51 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:51 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:44:52 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 2.12s[0m
+2025.01.03 23:44:52 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.31s[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:44:53 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.03 23:45:05 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:45:06 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.36s[0m
+Jan 03, 2025 11:45:08 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 03, 2025 11:45:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-03/r_compiler-error_23-45-08-786.md
+2025.01.03 23:45:08 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+Jan 03, 2025 11:45:08 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 03, 2025 11:45:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-03/r_compiler-error_23-45-08-997.md
+Jan 03, 2025 11:45:09 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 03, 2025 11:45:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-03/r_compiler-error_23-45-09-533.md
+2025.01.03 23:45:14 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:2:30: illegal start of simple expression
+implicit val name : String = 
+                             ^
+2025.01.03 23:45:14 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.16s[0m
+2025.01.03 23:45:20 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:2:29: illegal start of simple expression
+implicit val name: String = 
+                            ^
+2025.01.03 23:45:21 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.14s[0m
+2025.01.03 23:45:26 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:45:26 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.18s[0m
+2025.01.03 23:45:29 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:45:29 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.15s[0m
+2025.01.03 23:45:35 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:3:1: illegal start of simple expression
+def disp()
+^^^
+2025.01.03 23:45:35 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 57ms[0m
+Jan 03, 2025 11:45:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 348
+2025.01.03 23:45:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:3:32: `=` expected but `identifier` found
+def disp(implicit nm : String) message + nm
+                               ^^^^^^^
+2025.01.03 23:45:48 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.15s[0m
+2025.01.03 23:45:52 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:4:32: `=` expected but `identifier` found
+def disp(implicit nm : String) message + nm
+                               ^^^^^^^
+2025.01.03 23:45:54 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.13s[0m
+2025.01.03 23:45:56 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:45:56 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.17s[0m
+2025.01.03 23:45:59 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:45:59 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.17s[0m
+2025.01.03 23:46:03 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+[31merror[39m: implicit.worksheet.sc:8:1: illegal start of simple expression
+
+^
+2025.01.03 23:46:04 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.12s[0m
+2025.01.03 23:46:08 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:08 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.15s[0m
+2025.01.03 23:46:11 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:11 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.14s[0m
+2025.01.03 23:46:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:24 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.12s[0m
+2025.01.03 23:46:26 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:27 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.11s[0m
+2025.01.03 23:46:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:29 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.13s[0m
+2025.01.03 23:46:33 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.03 23:46:33 INFO  time: evaluated worksheet 'implicit.worksheet.sc' in 0.13s[0m
+2025.01.03 23:46:51 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/implicit.worksheet.sc[0m
+2025.01.04 00:01:46 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:01:46 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:01:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:01:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:01:46 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:01:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:01:46 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.51s[0m
+2025.01.04 00:01:46 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.39s[0m
+2025.01.04 00:01:58 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:9 (mdoc generated code) illegal start of simple expression
+val res0 = def fromStringToInt(); $doc.binder(res0, 0, 0, 0, 21)
+           ^
+
+2025.01.04 00:01:58 INFO  time: evaluated worksheet 'option.worksheet.sc' in 43ms[0m
+2025.01.04 00:02:08 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:1:53: type mismatch;
+ found   : Unit
+ required: Option[Int]
+def fromStringToInt(value : String) : Option[Int] = { 
+                                                    ^
+2025.01.04 00:02:08 INFO  time: evaluated worksheet 'option.worksheet.sc' in 96ms[0m
+2025.01.04 00:02:17 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: overloaded method parseInt with alternatives:
+  (x$1: String)Int <and>
+  (x$1: CharSequence,x$2: Int,x$3: Int,x$4: Int)Int <and>
+  (x$1: String,x$2: Int)Int
+ cannot be applied to ()
+    Integer.parseInt()
+    ^^^^^^^^^^^^^^^^
+2025.01.04 00:02:17 INFO  time: evaluated worksheet 'option.worksheet.sc' in 71ms[0m
+2025.01.04 00:02:19 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:02:19 INFO  time: evaluated worksheet 'option.worksheet.sc' in 35ms[0m
+2025.01.04 00:02:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:5:9: illegal start of simple expression
+val x = 
+        ^
+2025.01.04 00:02:24 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.18s[0m
+2025.01.04 00:02:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: option.worksheet.sc:5:9: not found: value fromStringTo
+val x = fromStringTo
+        ^^^^^^^^^^^^
+2025.01.04 00:02:28 INFO  time: evaluated worksheet 'option.worksheet.sc' in 57ms[0m
+2025.01.04 00:02:31 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:02:31 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.1s[0m
+2025.01.04 00:02:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:02:32 INFO  time: evaluated worksheet 'option.worksheet.sc' in 97ms[0m
+2025.01.04 00:02:35 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:02:35 INFO  time: evaluated worksheet 'option.worksheet.sc' in 70ms[0m
+2025.01.04 00:02:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:02:47 INFO  time: evaluated worksheet 'option.worksheet.sc' in 93ms[0m
+2025.01.04 00:03:07 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:03:07 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.21s[0m
+2025.01.04 00:03:38 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:8:10: expected start of definition
+override fromStringToInt()
+         ^^^^^^^^^^^^^^^
+2025.01.04 00:03:38 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.14s[0m
+2025.01.04 00:03:40 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:03:40 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.18s[0m
+2025.01.04 00:03:47 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:5:9: not found: value fromStringToInt
+val x = fromStringToInt("9")
+        ^^^^^^^^^^^^^^^
+[31merror[39m: option.worksheet.sc:6:9: not found: value fromStringToInt
+val y = fromStringToInt("a")
+        ^^^^^^^^^^^^^^^
+2025.01.04 00:03:47 INFO  time: evaluated worksheet 'option.worksheet.sc' in 34ms[0m
+2025.01.04 00:03:49 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:5:9: not found: value fromStringToInt
+val x = fromStringToInt("9")
+        ^^^^^^^^^^^^^^^
+[31merror[39m: option.worksheet.sc:6:9: not found: value fromStringToInt
+val y = fromStringToInt("a")
+        ^^^^^^^^^^^^^^^
+2025.01.04 00:03:49 INFO  time: evaluated worksheet 'option.worksheet.sc' in 42ms[0m
+2025.01.04 00:03:50 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:5:9: not found: value \
+val x = \romStringToInt("9")
+        ^
+[31merror[39m: option.worksheet.sc:6:9: not found: value fromStringToInt
+val y = fromStringToInt("a")
+        ^^^^^^^^^^^^^^^
+2025.01.04 00:03:50 INFO  time: evaluated worksheet 'option.worksheet.sc' in 45ms[0m
+2025.01.04 00:03:53 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:03:54 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.16s[0m
+2025.01.04 00:03:57 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:03:57 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.11s[0m
+2025.01.04 00:04:09 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:2:5: type mismatch;
+ found   : Int
+ required: Option[Int]
+    Integer.parseInt(value)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:04:09 INFO  time: evaluated worksheet 'option.worksheet.sc' in 74ms[0m
+2025.01.04 00:04:21 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:3:9: type mismatch;
+ found   : Some.type
+ required: Option[Int]
+        Some
+        ^^^^
+[33mwarning[39m: option.worksheet.sc:2:5: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.
+    try { 
+    ^
+2025.01.04 00:04:21 INFO  time: evaluated worksheet 'option.worksheet.sc' in 78ms[0m
+2025.01.04 00:04:23 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:3:9: not enough arguments for method apply: (value: A): Some[A] in object Some.
+Unspecified value parameter value.
+        Some()
+        ^^^^^^
+[33mwarning[39m: option.worksheet.sc:2:5: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.
+    try { 
+    ^
+2025.01.04 00:04:23 INFO  time: evaluated worksheet 'option.worksheet.sc' in 58ms[0m
+2025.01.04 00:04:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[33mwarning[39m: option.worksheet.sc:2:5: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.
+    try { 
+    ^
+2025.01.04 00:04:33 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.13s[0m
+2025.01.04 00:04:36 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:5:11: type mismatch;
+ found   : Unit
+ required: Throwable => Option[Int]
+    catch { 
+          ^
+2025.01.04 00:04:36 INFO  time: evaluated worksheet 'option.worksheet.sc' in 89ms[0m
+Jan 04, 2025 12:04:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1832
+2025.01.04 00:04:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:04:46 INFO  time: evaluated worksheet 'option.worksheet.sc' in 98ms[0m
+2025.01.04 00:04:51 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:04:51 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.14s[0m
+2025.01.04 00:04:53 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:04:54 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.11s[0m
+2025.01.04 00:05:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:14:5: illegal start of simple pattern
+val 
+    ^
+2025.01.04 00:05:24 INFO  time: evaluated worksheet 'option.worksheet.sc' in 78ms[0m
+2025.01.04 00:05:27 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:14:5: illegal start of simple pattern
+val 
+    ^
+2025.01.04 00:05:27 INFO  time: evaluated worksheet 'option.worksheet.sc' in 65ms[0m
+2025.01.04 00:05:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:05:32 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.11s[0m
+2025.01.04 00:05:40 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:15:9: illegal start of simple expression
+val b = 
+        ^
+2025.01.04 00:05:40 INFO  time: evaluated worksheet 'option.worksheet.sc' in 74ms[0m
+2025.01.04 00:05:42 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:05:42 INFO  time: evaluated worksheet 'option.worksheet.sc' in 87ms[0m
+2025.01.04 00:06:12 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:6:30: type mismatch;
+ found   : Int(0)
+ required: Option[Int]
+       case e : Exception => 0
+                             ^
+2025.01.04 00:06:12 INFO  time: evaluated worksheet 'option.worksheet.sc' in 75ms[0m
+2025.01.04 00:06:18 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:06:18 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.12s[0m
+2025.01.04 00:06:26 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:06:26 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.15s[0m
+2025.01.04 00:06:49 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:17:1: value mt is not a member of Int
+b mt
+^^^^
+2025.01.04 00:06:49 INFO  time: evaluated worksheet 'option.worksheet.sc' in 83ms[0m
+Jan 04, 2025 12:06:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2162
+2025.01.04 00:06:57 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:19:1: illegal start of simple pattern
+}
+^
+2025.01.04 00:06:57 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.11s[0m
+Jan 04, 2025 12:06:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2213
+2025.01.04 00:07:03 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:10: constructor cannot be instantiated to expected type;
+ found   : Some[A]
+ required: Int
+    case Some(value) => println(value)
+         ^^^^
+2025.01.04 00:07:04 INFO  time: evaluated worksheet 'option.worksheet.sc' in 60ms[0m
+2025.01.04 00:07:05 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:10: constructor cannot be instantiated to expected type;
+ found   : Some[A]
+ required: Int
+    case Some(value) => println(value)
+         ^^^^
+2025.01.04 00:07:05 INFO  time: evaluated worksheet 'option.worksheet.sc' in 85ms[0m
+Jan 04, 2025 12:07:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2315
+2025.01.04 00:07:11 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:10: constructor cannot be instantiated to expected type;
+ found   : Some[A]
+ required: Int
+    case Some(value) => println(value)
+         ^^^^
+[31merror[39m: option.worksheet.sc:19:10: pattern type is incompatible with expected type;
+ found   : None.type
+ required: Int
+    case None => println(0)
+         ^^^^
+2025.01.04 00:07:11 INFO  time: evaluated worksheet 'option.worksheet.sc' in 72ms[0m
+2025.01.04 00:07:21 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:19:10: pattern type is incompatible with expected type;
+ found   : None.type
+ required: Int
+    case None => println(0)
+         ^^^^
+2025.01.04 00:07:21 INFO  time: evaluated worksheet 'option.worksheet.sc' in 74ms[0m
+2025.01.04 00:07:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:19:10: object None is not a case class, nor does it have a valid unapply/unapplySeq member
+    case None(value) => println(0)
+         ^^^^
+2025.01.04 00:07:28 INFO  time: evaluated worksheet 'option.worksheet.sc' in 55ms[0m
+2025.01.04 00:07:31 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:19:10: pattern type is incompatible with expected type;
+ found   : None.type
+ required: Int
+    case None => println(0)
+         ^^^^
+2025.01.04 00:07:31 INFO  time: evaluated worksheet 'option.worksheet.sc' in 62ms[0m
+2025.01.04 00:07:41 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:21: `)` expected but `=>` found
+    case Some(value => println(value)
+                    ^^
+2025.01.04 00:07:41 INFO  time: evaluated worksheet 'option.worksheet.sc' in 61ms[0m
+2025.01.04 00:07:43 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:10: constructor cannot be instantiated to expected type;
+ found   : Some[A]
+ required: Int
+    case Some(value) => println(value)
+         ^^^^
+[31merror[39m: option.worksheet.sc:19:10: pattern type is incompatible with expected type;
+ found   : None.type
+ required: Int
+    case None => println(0)
+         ^^^^
+2025.01.04 00:07:43 INFO  time: evaluated worksheet 'option.worksheet.sc' in 76ms[0m
+2025.01.04 00:07:55 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+[31merror[39m: option.worksheet.sc:18:10: constructor cannot be instantiated to expected type;
+ found   : Some[A]
+ required: Int
+    case Some(value) => println(value)
+         ^^^^
+[31merror[39m: option.worksheet.sc:19:10: pattern type is incompatible with expected type;
+ found   : None.type
+ required: Int
+    case None => println("None")
+         ^^^^
+2025.01.04 00:07:55 INFO  time: evaluated worksheet 'option.worksheet.sc' in 64ms[0m
+2025.01.04 00:08:07 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:08:08 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.17s[0m
+2025.01.04 00:08:11 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:08:11 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.12s[0m
+2025.01.04 00:10:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/option.worksheet.sc[0m
+2025.01.04 00:10:24 INFO  time: evaluated worksheet 'option.worksheet.sc' in 0.19s[0m
+2025.01.04 00:11:25 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:11:25 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:11:25 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:11:25 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:11:25 INFO  time: evaluated worksheet 'future.worksheet.sc' in 91ms[0m
+2025.01.04 00:11:25 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:11:25 INFO  time: evaluated worksheet 'future.worksheet.sc' in 58ms[0m
+Jan 04, 2025 12:11:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2657
+2025.01.04 00:11:38 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:1:24: overloaded method sleep with alternatives:
+  (x$1: java.time.Duration)Unit <and>
+  (x$1: Long,x$2: Int)Unit <and>
+  (x$1: Long)Unit
+ cannot be applied to ()
+def longRunningJob = { Thread.sleep()}
+                       ^^^^^^^^^^^^
+2025.01.04 00:11:38 INFO  time: evaluated worksheet 'future.worksheet.sc' in 65ms[0m
+2025.01.04 00:11:43 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:11:43 INFO  time: evaluated worksheet 'future.worksheet.sc' in 76ms[0m
+2025.01.04 00:11:45 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:1:48: `;` expected but `integer constant` found
+def longRunningJob = { Thread.sleep(10 * 1000) 42 }
+                                               ^^
+2025.01.04 00:11:45 INFO  time: evaluated worksheet 'future.worksheet.sc' in 55ms[0m
+2025.01.04 00:11:55 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:11:55 INFO  time: evaluated worksheet 'future.worksheet.sc' in 71ms[0m
+2025.01.04 00:12:03 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:12:03 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:948)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+[31merror[39m: future.worksheet.sc:3:5: `identifier` expected but `end of file` found
+def 
+    ^
+2025.01.04 00:12:03 INFO  time: evaluated worksheet 'future.worksheet.sc' in 75ms[0m
+2025.01.04 00:12:07 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:2:1: Int does not take parameters
+longRunningJob()
+^^^^^^^^^^^^^^^^
+2025.01.04 00:12:08 INFO  time: evaluated worksheet 'future.worksheet.sc' in 53ms[0m
+2025.01.04 00:12:13 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:2:1: Int does not take parameters
+longRunningJob()
+^^^^^^^^^^^^^^^^
+2025.01.04 00:12:13 INFO  time: evaluated worksheet 'future.worksheet.sc' in 38ms[0m
+2025.01.04 00:12:17 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:2:1: Int does not take parameters
+longRunningJob()
+^^^^^^^^^^^^^^^^
+[31merror[39m: future.worksheet.sc:4:1: missing argument list for method ne in class Object
+Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `ne _` or `ne(_)` instead of `ne`.
+ne
+^^
+2025.01.04 00:12:17 INFO  time: evaluated worksheet 'future.worksheet.sc' in 47ms[0m
+2025.01.04 00:12:19 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:2:1: Int does not take parameters
+longRunningJob()
+^^^^^^^^^^^^^^^^
+[31merror[39m: future.worksheet.sc:4:1: Unit does not take parameters
+nextJob()
+^^^^^^^^^
+2025.01.04 00:12:19 INFO  time: evaluated worksheet 'future.worksheet.sc' in 40ms[0m
+2025.01.04 00:12:21 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:2:1: Int does not take parameters
+longRunningJob()
+^^^^^^^^^^^^^^^^
+[31merror[39m: future.worksheet.sc:5:1: Unit does not take parameters
+nextJob()
+^^^^^^^^^
+2025.01.04 00:12:22 INFO  time: evaluated worksheet 'future.worksheet.sc' in 46ms[0m
+2025.01.04 00:12:30 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:5:1: Unit does not take parameters
+nextJob()
+^^^^^^^^^
+2025.01.04 00:12:31 INFO  time: evaluated worksheet 'future.worksheet.sc' in 54ms[0m
+2025.01.04 00:12:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:12:35 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:12:42 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+2025.01.04 00:12:42 INFO  time: evaluated worksheet 'future.worksheet.sc' in 77ms[0m
+2025.01.04 00:12:54 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:12:55 INFO  time: evaluated worksheet 'future.worksheet.sc' in 78ms[0m
+2025.01.04 00:13:05 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:05 INFO  time: evaluated worksheet 'future.worksheet.sc' in 64ms[0m
+2025.01.04 00:13:10 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:10 INFO  time: evaluated worksheet 'future.worksheet.sc' in 64ms[0m
+2025.01.04 00:13:16 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:16 INFO  time: evaluated worksheet 'future.worksheet.sc' in 63ms[0m
+2025.01.04 00:13:19 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:20 INFO  time: evaluated worksheet 'future.worksheet.sc' in 51ms[0m
+2025.01.04 00:13:27 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:27 INFO  time: evaluated worksheet 'future.worksheet.sc' in 48ms[0m
+2025.01.04 00:13:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:28 INFO  time: evaluated worksheet 'future.worksheet.sc' in 54ms[0m
+2025.01.04 00:13:30 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:13:40 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+2025.01.04 00:15:43 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:15:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:15:52 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:15:54 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+[31merror[39m: future.worksheet.sc:2:1: value Implici is not a member of object scala.concurrent.ExecutionContext
+did you mean Implicits?
+import scala.concurrent.ExecutionContext.Implici
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:15:54 INFO  time: evaluated worksheet 'future.worksheet.sc' in 48ms[0m
+[31merror[39m: future.worksheet.sc:2:1: value Implici is not a member of object scala.concurrent.ExecutionContext
+did you mean Implicits?
+import scala.concurrent.ExecutionContext.Implici
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:15:54 INFO  time: evaluated worksheet 'future.worksheet.sc' in 39ms[0m
+2025.01.04 00:15:58 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:02 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:08 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+2025.01.04 00:16:09 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.11s[0m
+2025.01.04 00:16:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:46 INFO  time: evaluated worksheet 'future.worksheet.sc' in 78ms[0m
+2025.01.04 00:16:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:48 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.11s[0m
+2025.01.04 00:16:54 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:54 INFO  time: evaluated worksheet 'future.worksheet.sc' in 74ms[0m
+2025.01.04 00:16:59 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:16:59 INFO  time: evaluated worksheet 'future.worksheet.sc' in 72ms[0m
+2025.01.04 00:17:02 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:02 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.12s[0m
+2025.01.04 00:17:04 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:04 INFO  time: evaluated worksheet 'future.worksheet.sc' in 92ms[0m
+2025.01.04 00:17:14 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:24 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+2025.01.04 00:17:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:28 INFO  time: evaluated worksheet 'future.worksheet.sc' in 71ms[0m
+2025.01.04 00:17:31 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:31 INFO  time: evaluated worksheet 'future.worksheet.sc' in 60ms[0m
+2025.01.04 00:17:34 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:34 INFO  time: evaluated worksheet 'future.worksheet.sc' in 87ms[0m
+2025.01.04 00:17:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:17:48 INFO  time: evaluated worksheet 'future.worksheet.sc' in 81ms[0m
+2025.01.04 00:17:55 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:8:1: `identifier` expected but `def` found
+def nextJob() = println("Next Done !")
+^^^
+2025.01.04 00:17:55 INFO  time: evaluated worksheet 'future.worksheet.sc' in 83ms[0m
+2025.01.04 00:18:00 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:6:1: not enough arguments for method onComplete: (f: scala.util.Try[Int] => U)(implicit executor: scala.concurrent.ExecutionContext): Unit.
+Unspecified value parameter f.
+maybe.onComplete()
+^^^^^^^^^^^^^^^^^^
+2025.01.04 00:18:00 INFO  time: evaluated worksheet 'future.worksheet.sc' in 41ms[0m
+2025.01.04 00:18:09 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:7:10: not found: value Success
+    case Success(value) => 
+         ^^^^^^^
+2025.01.04 00:18:10 INFO  time: evaluated worksheet 'future.worksheet.sc' in 58ms[0m
+2025.01.04 00:18:15 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:9:1: illegal start of simple pattern
+}
+^
+2025.01.04 00:18:16 INFO  time: evaluated worksheet 'future.worksheet.sc' in 67ms[0m
+2025.01.04 00:18:22 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:9:1: `=>` expected but `}` found
+}
+^
+2025.01.04 00:18:24 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.11s[0m
+2025.01.04 00:18:29 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:7:10: not found: value Success
+    case Success(value) => println(value)
+         ^^^^^^^
+[31merror[39m: future.worksheet.sc:8:10: not found: value Failure
+    case Failure(exception) => 
+         ^^^^^^^
+2025.01.04 00:18:30 INFO  time: evaluated worksheet 'future.worksheet.sc' in 64ms[0m
+2025.01.04 00:18:39 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:7:10: not found: value Success
+    case Success(value) => println(value)
+         ^^^^^^^
+[31merror[39m: future.worksheet.sc:8:10: not found: value Failure
+    case Failure(exception) => println("Something Wrong")
+         ^^^^^^^
+2025.01.04 00:18:39 INFO  time: evaluated worksheet 'future.worksheet.sc' in 61ms[0m
+2025.01.04 00:18:41 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:8:10: not found: value Success
+    case Success(value) => println(value)
+         ^^^^^^^
+[31merror[39m: future.worksheet.sc:9:10: not found: value Failure
+    case Failure(exception) => println("Something Wrong")
+         ^^^^^^^
+2025.01.04 00:18:41 INFO  time: evaluated worksheet 'future.worksheet.sc' in 37ms[0m
+2025.01.04 00:18:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:3:1: object \ is not a member of package scala
+import scala.\
+^^^^^^^^^^^^^^
+[31merror[39m: future.worksheet.sc:9:10: not found: value Success
+    case Success(value) => println(value)
+         ^^^^^^^
+[31merror[39m: future.worksheet.sc:10:10: not found: value Failure
+    case Failure(exception) => println("Something Wrong")
+         ^^^^^^^
+2025.01.04 00:18:49 INFO  time: evaluated worksheet 'future.worksheet.sc' in 67ms[0m
+2025.01.04 00:18:56 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+[31merror[39m: future.worksheet.sc:3:1: object S is not a member of package util
+import scala.util.{S}
+^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: future.worksheet.sc:9:10: not found: value Success
+    case Success(value) => println(value)
+         ^^^^^^^
+[31merror[39m: future.worksheet.sc:10:10: not found: value Failure
+    case Failure(exception) => println("Something Wrong")
+         ^^^^^^^
+2025.01.04 00:18:56 INFO  time: evaluated worksheet 'future.worksheet.sc' in 42ms[0m
+2025.01.04 00:19:01 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:19:01 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.1s[0m
+2025.01.04 00:19:13 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:19:13 INFO  time: evaluated worksheet 'future.worksheet.sc' in 0.1s[0m
+2025.01.04 00:19:45 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:19:53 INFO  time: evaluated worksheet 'future.worksheet.sc' in 7.12s[0m
+2025.01.04 00:20:15 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:20:22 INFO  time: evaluated worksheet 'future.worksheet.sc' in 7.12s[0m
+2025.01.04 00:25:49 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.04 00:25:56 INFO  time: evaluated worksheet 'future.worksheet.sc' in 7.12s[0m
+2025.01.04 00:27:20 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:27:20 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.12[0m
+2025.01.04 00:27:20 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:27:20 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:27:20 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.11s[0m
+2025.01.04 00:27:20 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:27:20 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 39ms[0m
+2025.01.04 00:27:26 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:27:26 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 79ms[0m
+2025.01.04 00:27:32 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:1: illegal start of simple expression
+}
+^
+2025.01.04 00:27:33 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 98ms[0m
+2025.01.04 00:27:35 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:27:35 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 55ms[0m
+2025.01.04 00:27:45 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:4:1: `identifier` expected but `}` found
+}
+^
+2025.01.04 00:27:46 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 78ms[0m
+2025.01.04 00:27:47 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[33mwarning[39m: mixin.worksheet.sc:3:13: procedure syntax is deprecated: instead, add `: Unit` to explicitly declare `loud`'s return type [quickfixable]
+    def loud
+            ^
+[31merror[39m: mixin.worksheet.sc:1:7: class B needs to be abstract.
+Missing implementation:
+  def loud: Unit = ???
+
+class B { 
+      ^
+2025.01.04 00:27:47 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 32ms[0m
+2025.01.04 00:27:51 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:4:1: `identifier` expected but `}` found
+}
+^
+2025.01.04 00:27:51 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 67ms[0m
+2025.01.04 00:27:56 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:25: type to is not a member of String
+    def loudMessage() : message.to
+                        ^^^^^^^^^^
+2025.01.04 00:27:56 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 37ms[0m
+2025.01.04 00:27:59 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:44: `=` expected but `(` found
+    def loudMessage() : message.toUpperCase()
+                                           ^
+2025.01.04 00:27:59 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 62ms[0m
+2025.01.04 00:28:14 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:28:14 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 90ms[0m
+2025.01.04 00:28:25 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:28:25 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.14s[0m
+2025.01.04 00:28:33 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:28:33 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 90ms[0m
+2025.01.04 00:28:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:28:48 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.1s[0m
+2025.01.04 00:29:01 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:01 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.11s[0m
+2025.01.04 00:29:08 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:08 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 79ms[0m
+2025.01.04 00:29:15 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:15 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 69ms[0m
+2025.01.04 00:29:17 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:17 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 71ms[0m
+2025.01.04 00:29:20 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:20 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 96ms[0m
+2025.01.04 00:29:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:29:24 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.1s[0m
+Jan 04, 2025 12:29:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5141
+2025.01.04 00:29:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:8:1: expected start of definition
+}
+^
+2025.01.04 00:29:28 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 43ms[0m
+2025.01.04 00:29:37 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[33mwarning[39m: mixin.worksheet.sc:7:20: procedure syntax is deprecated: instead, add `: Unit` to explicitly declare `loudMessage`'s return type [quickfixable]
+    def loudMessage
+                   ^
+[33mwarning[39m: mixin.worksheet.sc:6:7: method loudMessage in class B defined with a single empty parameter list overrides method loudMessage in trait MakeThingLoud defined without a parameter list [quickfixable]
+trait MakeThingLoud extends B { 
+      ^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:6:7: incompatible type in overriding
+def loudMessage: Unit (defined in trait MakeThingLoud)
+  with def loudMessage(): String (defined in class B);
+  (note that def loudMessage: Unit (defined in trait MakeThingLoud) is abstract,
+  and is therefore overridden by concrete def loudMessage(): String (defined in class B))
+trait MakeThingLoud extends B { 
+      ^^^^^^^^^^^^^
+2025.01.04 00:29:37 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 67ms[0m
+2025.01.04 00:29:40 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:8:1: illegal start of simple expression
+}
+^
+2025.01.04 00:29:42 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 73ms[0m
+2025.01.04 00:29:47 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:8:1: illegal start of simple expression
+}
+^
+2025.01.04 00:29:47 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 71ms[0m
+2025.01.04 00:29:56 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:9: `override` modifier required to override concrete member:
+def loudMessage(): String (defined in class B)
+    def loudMessage: String = message.toUpperCase()
+        ^^^^^^^^^^^
+2025.01.04 00:29:56 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 61ms[0m
+2025.01.04 00:30:05 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:35: `;` expected but `=` found
+    overridef loudMessage: String = message.toUpperCase()
+                                  ^
+2025.01.04 00:30:05 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 52ms[0m
+2025.01.04 00:30:07 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:9: `override` modifier required to override concrete member:
+def loudMessage(): String (defined in class B)
+    def loudMessage: String = message.toUpperCase()
+        ^^^^^^^^^^^
+2025.01.04 00:30:07 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 42ms[0m
+2025.01.04 00:30:13 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:25: illegal start of simple expression
+    def loudMessage() = .toUpperCase()
+                        ^
+2025.01.04 00:30:13 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 62ms[0m
+2025.01.04 00:30:16 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:25: illegal start of simple expression
+    def loudMessage() = .toUpperCase()
+                        ^
+2025.01.04 00:30:16 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 59ms[0m
+2025.01.04 00:30:21 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:9: `override` modifier required to override concrete member:
+def loudMessage(): String (defined in class B)
+    def loudMessage(): String = message.toUpperCase()
+        ^^^^^^^^^^^
+2025.01.04 00:30:21 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 49ms[0m
+2025.01.04 00:30:27 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:11:1: value loudMessage is not a member of MdocApp.this.B
+B.loudMessage()
+^^^^^^^^^^^^^
+2025.01.04 00:30:27 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 34ms[0m
+2025.01.04 00:30:33 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:9: `override` modifier required to override concrete member:
+def loudMessage(): String (defined in class B)
+    def loudMessage(): String = message.toUpperCase()
+        ^^^^^^^^^^^
+2025.01.04 00:30:33 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 63ms[0m
+2025.01.04 00:31:16 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:9: `override` modifier required to override concrete member:
+def loudMessage(): String (defined in class B)
+    def loudMessage(): String = message.toUpperCase()
+        ^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:10:13: <$anon: MdocApp.this.B with MdocApp.this.MakeThingLoud> inherits conflicting members:
+  def loudMessage(): String (defined in class B) and
+  def loudMessage(): String (defined in trait MakeThingLoud)
+  (note: this can be resolved by declaring an `override` in <$anon: MdocApp.this.B with MdocApp.this.MakeThingLoud>.)
+val B = new B with MakeThingLoud
+            ^^^^^^^^^^^^^^^^^^^^
+2025.01.04 00:31:16 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 83ms[0m
+2025.01.04 00:31:24 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:31:24 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.12s[0m
+2025.01.04 00:31:27 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:31:27 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.1s[0m
+2025.01.04 00:31:50 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:5:20: not found: type MakeThingLoud
+val B = new B with MakeThingLoud
+                   ^^^^^^^^^^^^^
+2025.01.04 00:31:50 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 68ms[0m
+2025.01.04 00:31:52 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:20: not found: type MakeThingLoud
+val B = new B with MakeThingLoud
+                   ^^^^^^^^^^^^^
+2025.01.04 00:31:52 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 42ms[0m
+2025.01.04 00:31:53 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:31:53 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.1s[0m
+2025.01.04 00:32:46 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:32:46 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 96ms[0m
+2025.01.04 00:32:53 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:32:53 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 80ms[0m
+2025.01.04 00:32:57 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:32:58 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.1s[0m
+2025.01.04 00:33:01 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:33:02 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 0.12s[0m
+2025.01.04 00:33:03 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:33:03 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 96ms[0m
+2025.01.04 00:33:05 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:33: not found: value message
+    def loudMessage(): String = message.toUpperCase()
+                                ^^^^^^^
+2025.01.04 00:33:05 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 53ms[0m
+2025.01.04 00:33:13 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:12:1: `identifier` expected but `val` found
+val B = new B with MakeThingLoud
+^^^
+2025.01.04 00:33:13 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 60ms[0m
+Jan 04, 2025 12:33:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5806
+2025.01.04 00:33:23 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:10:9: illegal cyclic reference involving trait MakeThingLoud
+class B extends MessageContainer with MakeThingLoud {}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:7:33: not found: value message
+    def loudMessage(): String = message.toUpperCase()
+                                ^^^^^^^
+2025.01.04 00:33:23 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 64ms[0m
+2025.01.04 00:33:28 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:3:1: not found: value \
+\
+^
+[31merror[39m: mixin.worksheet.sc:10:9: illegal cyclic reference involving trait MakeThingLoud
+class B extends MessageContainer with MakeThingLoud {}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:7:33: not found: value message
+    def loudMessage(): String = message.toUpperCase()
+                                ^^^^^^^
+2025.01.04 00:33:28 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 44ms[0m
+2025.01.04 00:33:29 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:9:9: illegal cyclic reference involving trait MakeThingLoud
+class B extends MessageContainer with MakeThingLoud {}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:6:33: not found: value message
+    def loudMessage(): String = message.toUpperCase()
+                                ^^^^^^^
+2025.01.04 00:33:29 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 36ms[0m
+2025.01.04 00:33:42 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:9:9: illegal cyclic reference involving trait MakeThingLoud
+class B extends MessageContainer with MakeThingLoud {}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:6:33: not found: value message
+    def loudMessage(): String = message.toUpperCase()
+                                ^^^^^^^
+2025.01.04 00:33:42 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 59ms[0m
+2025.01.04 00:33:47 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:9:9: illegal cyclic reference involving trait MakeThingLoud
+class B extends MessageContainer with MakeThingLoud {}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: mixin.worksheet.sc:12:1: not enough arguments for method loudMessage: (message: String): String.
+Unspecified value parameter message.
+B.loudMessage()
+^^^^^^^^^^^^^^^
+2025.01.04 00:33:47 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 47ms[0m
+2025.01.04 00:34:08 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:7:1: `end of file` expected but `}` found
+}
+^
+2025.01.04 00:34:08 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 58ms[0m
+2025.01.04 00:34:10 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+[31merror[39m: mixin.worksheet.sc:12:1: not enough arguments for method loudMessage: (message: String): String.
+Unspecified value parameter message.
+B.loudMessage()
+^^^^^^^^^^^^^^^
+2025.01.04 00:34:10 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 63ms[0m
+2025.01.04 00:34:17 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:34:17 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 79ms[0m
+2025.01.04 00:34:21 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/mixin.worksheet.sc[0m
+2025.01.04 00:34:21 INFO  time: evaluated worksheet 'mixin.worksheet.sc' in 98ms[0m
+2025.01.04 00:39:02 INFO  Shutting down server[0m
+2025.01.04 00:39:02 INFO  shutting down Metals[0m
+2025.01.04 00:39:02 INFO  Shut down connection with build server.[0m
+2025.01.04 00:39:02 INFO  Shut down connection with build server.[0m
+2025.01.04 00:39:02 INFO  Exiting server[0m
