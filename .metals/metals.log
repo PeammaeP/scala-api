@@ -1590,3 +1590,212 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2025.01.04 21:08:23 INFO  running doctor check[0m
 2025.01.04 21:08:23 INFO  java targets: root-test, root, essential-scala-api-build[0m
 2025.01.04 21:08:24 INFO  time: indexed workspace in 0.99s[0m
+2025.01.04 21:09:06 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:06 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:09:06 INFO  time: compiled root in 0.51s[0m
+2025.01.04 21:09:06 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:07 INFO  time: compiled root in 0.23s[0m
+2025.01.04 21:09:21 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:21 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:09:32 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:32 INFO  time: compiled root in 75ms[0m
+2025.01.04 21:09:38 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:38 INFO  time: compiled root in 70ms[0m
+2025.01.04 21:09:53 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:53 INFO  time: compiled root in 0.15s[0m
+2025.01.04 21:09:55 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:09:55 INFO  time: compiled root in 0.1s[0m
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 492, 492, 517)
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 492, 492, 551)
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 492, 492, 517)
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 492, 492, 510)
+2025.01.04 21:10:07 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:07 INFO  time: compiled root in 0.4s[0m
+2025.01.04 21:10:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:14 INFO  time: compiled root in 0.38s[0m
+2025.01.04 21:10:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:20 INFO  time: compiled root in 53ms[0m
+2025.01.04 21:10:21 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:21 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:22 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:22 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:24 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:26 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:27 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+Jan 04, 2025 9:10:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 796
+2025.01.04 21:10:27 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:28 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:29 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:10:30 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:30 INFO  time: compiled root in 0.39s[0m
+2025.01.04 21:10:36 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:36 INFO  time: compiled root in 0.48s[0m
+2025.01.04 21:10:41 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:41 INFO  time: compiled root in 0.41s[0m
+2025.01.04 21:10:47 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:47 INFO  time: compiled root in 0.42s[0m
+2025.01.04 21:10:56 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:10:56 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:11:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:04 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:11:06 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:06 INFO  time: compiled root in 0.41s[0m
+2025.01.04 21:11:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:14 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:11:17 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:17 INFO  time: compiled root in 0.13s[0m
+2025.01.04 21:11:21 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:21 INFO  time: compiled root in 0.39s[0m
+2025.01.04 21:11:31 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:31 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:11:33 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:33 INFO  time: compiled root in 0.35s[0m
+2025.01.04 21:11:49 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:49 INFO  time: compiled root in 0.13s[0m
+2025.01.04 21:11:52 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:11:52 INFO  time: compiled root in 0.39s[0m
+2025.01.04 21:12:03 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:12:03 INFO  time: compiled root in 0.39s[0m
+2025.01.04 21:12:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:12:24 INFO  time: compiled root in 0.4s[0m
+2025.01.04 21:12:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:12:45 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:12:56 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:12:56 INFO  time: compiled root in 0.35s[0m
+2025.01.04 21:12:57 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:12:57 INFO  time: compiled root in 0.35s[0m
+2025.01.04 21:13:02 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:02 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:13:08 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:08 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:13:10 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:10 INFO  time: compiled root in 0.47s[0m
+2025.01.04 21:13:18 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:18 INFO  time: compiled root in 0.34s[0m
+2025.01.04 21:13:23 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:23 INFO  time: compiled root in 0.32s[0m
+2025.01.04 21:13:33 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:33 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:13:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:48 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:13:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:13:50 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:14:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:04 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:14:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:22 INFO  time: compiled root in 61ms[0m
+2025.01.04 21:14:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:24 INFO  time: compiled root in 74ms[0m
+2025.01.04 21:14:31 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:31 INFO  time: compiled root in 0.14s[0m
+2025.01.04 21:14:40 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:40 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:14:42 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:14:42 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:15:08 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:15:08 INFO  time: compiled root in 57ms[0m
+Jan 04, 2025 9:15:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2130
+2025.01.04 21:15:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:15:20 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:16:02 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:16:02 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:16:05 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:16:05 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:16:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:16:14 INFO  time: compiled root in 0.45s[0m
+2025.01.04 21:16:21 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:16:21 INFO  time: compiled root in 0.47s[0m
+2025.01.04 21:16:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:16:22 INFO  time: compiled root in 0.41s[0m
+2025.01.04 21:50:59 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:50:59 INFO  time: compiled root in 0.4s[0m
+2025.01.04 21:51:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:04 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:51:11 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:11 INFO  time: compiled root in 72ms[0m
+2025.01.04 21:51:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:14 INFO  time: compiled root in 47ms[0m
+2025.01.04 21:51:15 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:15 INFO  time: compiled root in 61ms[0m
+2025.01.04 21:51:25 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:25 INFO  time: compiled root in 0.38s[0m
+2025.01.04 21:51:32 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:32 INFO  time: compiled root in 0.1s[0m
+2025.01.04 21:51:36 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:36 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:51:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:43 INFO  time: compiled root in 0.1s[0m
+2025.01.04 21:51:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:45 INFO  time: compiled root in 0.37s[0m
+2025.01.04 21:51:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:50 INFO  time: compiled root in 0.36s[0m
+2025.01.04 21:51:56 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:51:56 INFO  time: compiled root in 0.38s[0m
+Jan 04, 2025 9:52:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2912
+2025.01.04 21:52:21 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:21 INFO  time: compiled root in 52ms[0m
+2025.01.04 21:52:21 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:22 INFO  time: compiled root in 49ms[0m
+2025.01.04 21:52:22 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:23 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:22 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:24 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:26 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:26 INFO  time: compiled root in 84ms[0m
+2025.01.04 21:52:26 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:30 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:31 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:32 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:32 INFO  time: compiled root in 76ms[0m
+2025.01.04 21:52:33 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:35 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:35 INFO  time: compiled root in 75ms[0m
+2025.01.04 21:52:35 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:36 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:37 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:37 INFO  time: compiled root in 69ms[0m
+2025.01.04 21:52:37 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:37 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:39 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:39 INFO  time: compiled root in 75ms[0m
+2025.01.04 21:52:39 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:39 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:41 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:42 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:43 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:43 INFO  time: compiled root in 62ms[0m
+2025.01.04 21:52:44 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:44 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:52:45 INFO  time: compiled root in 62ms[0m
+2025.01.04 21:52:45 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:49 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:49 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:50 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:50 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:51 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:52 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:53 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:53 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+Jan 04, 2025 9:52:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3237
+2025.01.04 21:52:53 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:54 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:57 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:57 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:58 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:52:59 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:53:00 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:53:00 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 21:53:01 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:53:01 INFO  time: compiled root in 0.45s[0m
+2025.01.04 21:53:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:53:14 INFO  time: compiled root in 0.42s[0m
