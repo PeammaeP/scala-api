@@ -1799,3 +1799,74 @@ WARNING: Unmatched cancel notification for request id 3237
 2025.01.04 21:53:01 INFO  time: compiled root in 0.45s[0m
 2025.01.04 21:53:14 INFO  compiling root (1 scala source)[0m
 2025.01.04 21:53:14 INFO  time: compiled root in 0.42s[0m
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in scala.concurrent.Future[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 1258, 1258, 1274)
+Jan 04, 2025 9:58:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3495
+2025.01.04 21:58:09 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:09 INFO  time: compiled root in 60ms[0m
+2025.01.04 21:58:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:14 INFO  time: compiled root in 59ms[0m
+2025.01.04 21:58:17 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:17 INFO  time: compiled root in 72ms[0m
+2025.01.04 21:58:29 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:29 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:58:32 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:32 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:58:58 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:58:58 INFO  time: compiled root in 69ms[0m
+2025.01.04 21:59:00 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:00 INFO  time: compiled root in 70ms[0m
+2025.01.04 21:59:13 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:13 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:59:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:14 INFO  time: compiled root in 98ms[0m
+2025.01.04 21:59:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:16 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:59:29 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:29 INFO  time: compiled root in 0.12s[0m
+2025.01.04 21:59:38 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:38 INFO  time: compiled root in 0.13s[0m
+2025.01.04 21:59:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:48 INFO  time: compiled root in 0.11s[0m
+2025.01.04 21:59:54 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:54 INFO  time: compiled root in 71ms[0m
+2025.01.04 21:59:57 INFO  compiling root (1 scala source)[0m
+2025.01.04 21:59:57 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:00:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:00:14 INFO  time: compiled root in 65ms[0m
+2025.01.04 22:00:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:00:16 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:00:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:00:22 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:00:55 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:00:55 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:00:58 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:00:58 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:01:06 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:01:06 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:01:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:01:16 INFO  time: compiled root in 0.13s[0m
+2025.01.04 22:01:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:01:24 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:01:34 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:01:34 INFO  time: compiled root in 0.43s[0m
+2025.01.04 22:01:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:01:43 INFO  time: compiled root in 0.11s[0m
+Jan 04, 2025 10:01:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4531
+2025.01.04 22:01:46 INFO  time: compiled root in 4ms[0m
+Jan 04, 2025 10:01:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4561
+2025.01.04 22:02:13 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:02:13 INFO  time: compiled root in 0.51s[0m
+2025.01.04 22:02:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:02:22 INFO  time: compiled root in 0.42s[0m
+2025.01.04 22:02:25 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:02:25 INFO  time: compiled root in 0.42s[0m
+2025.01.04 22:02:36 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:02:36 INFO  time: compiled root in 0.45s[0m
+Jan 04, 2025 10:02:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-02-41-339.md
+2025.01.04 22:02:41 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
+2025.01.04 22:02:52 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:02:52 INFO  time: compiled root in 0.42s[0m

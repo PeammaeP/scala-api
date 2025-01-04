@@ -12,6 +12,7 @@ import scala.concurrent.Future
 import org.mongodb.scala.result.InsertOneResult
 import scala.concurrent.Future
 import scala.concurrent.ExecutionContext.Implicits.global
+import com.mongodb.client
 
 object EntryPointMongo extends App {
     val mongoClient: MongoClient = MongoClient()
@@ -31,6 +32,19 @@ object EntryPointMongo extends App {
     //     case Success(value) => println(value)
     //     case Failure(exception) => println("Failed to insert")
     // }
+
+    val maybe: Future[client.result.UpdateResult] = collection.updateOne(
+        equal("_id" , 0),
+        combine(
+            Updates.set("info.x" , 888),
+            Updates.set("info.y" , 777)
+        )
+    ).toFuture()
+
+    maybe.onComplete{ 
+        case Success(value) => println(s"Update ${value.getModifiedCount()}")
+        case Failure(exception) => println("Failed to Update")
+    }
 
     val maybeTarget: Future[Document] = collection.find(equal("_id" , 0)).first().toFuture()
     maybeTarget.onComplete{ 
