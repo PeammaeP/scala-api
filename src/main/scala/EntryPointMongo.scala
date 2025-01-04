@@ -14,7 +14,7 @@ import scala.concurrent.Future
 import scala.concurrent.ExecutionContext.Implicits.global
 import com.mongodb.client
 
-object EntryPointMongo extends App {
+object EntryPointMongo {
     val mongoClient: MongoClient = MongoClient()
     val database: MongoDatabase = mongoClient.getDatabase("my-database")
     val collection: MongoCollection[Document] = database.getCollection("my-collection")

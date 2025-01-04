@@ -1952,3 +1952,297 @@ INFO: Unsupported notification method: $/setTrace
 2025.01.04 22:18:36 INFO  time: compiled root in 0.61s[0m
 2025.01.04 22:18:36 INFO  compiling root-test (1 scala source)[0m
 2025.01.04 22:18:36 INFO  time: compiled root-test in 58ms[0m
+2025.01.04 22:19:46 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:19:46 INFO  time: compiled root in 0.45s[0m
+2025.01.04 22:19:55 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:19:55 INFO  time: compiled root in 0.23s[0m
+2025.01.04 22:20:02 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:20:02 INFO  time: compiled root in 0.23s[0m
+2025.01.04 22:20:06 INFO  compiling root-test (1 scala source)[0m
+2025.01.04 22:20:06 INFO  time: compiled root-test in 95ms[0m
+2025.01.04 22:20:21 INFO  compiling root-test (1 scala source)[0m
+2025.01.04 22:20:21 INFO  time: compiled root-test in 87ms[0m
+2025.01.04 22:20:27 INFO  compiling root-test (1 scala source)[0m
+2025.01.04 22:20:27 INFO  time: compiled root-test in 82ms[0m
+Jan 04, 2025 10:20:48 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:20:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-20-48-731.md
+2025.01.04 22:20:48 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:20:49 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:20:49 INFO  time: compiled root in 79ms[0m
+Jan 04, 2025 10:20:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:20:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-20-49-618.md
+2025.01.04 22:20:49 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:20:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:20:50 INFO  time: compiled root in 0.27s[0m
+Jan 04, 2025 10:20:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:20:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-20-58-069.md
+2025.01.04 22:20:58 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:20:58 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:20:58 INFO  time: compiled root in 74ms[0m
+Jan 04, 2025 10:20:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:20:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-20-59-014.md
+2025.01.04 22:20:58 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:20:59 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:20:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-20-59-876.md
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-077.md
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-139.md
+2025.01.04 22:21:00 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-221.md
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-368.md
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-429.md
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-511.md
+2025.01.04 22:21:00 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-00-887.md
+2025.01.04 22:21:00 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:21:01 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:01 INFO  time: compiled root in 97ms[0m
+Jan 04, 2025 10:21:01 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-01-697.md
+2025.01.04 22:21:01 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:03 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-03-485.md
+2025.01.04 22:21:03 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6666
+Jan 04, 2025 10:21:03 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-03-776.md
+2025.01.04 22:21:03 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:04 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-04-100.md
+2025.01.04 22:21:03 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:21:04 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:21:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-21-04-169.md
+2025.01.04 22:21:10 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:10 INFO  time: compiled root in 0.36s[0m
+2025.01.04 22:21:13 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:13 INFO  time: compiled root in 0.26s[0m
+2025.01.04 22:21:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:20 INFO  time: compiled root in 88ms[0m
+2025.01.04 22:21:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:24 INFO  time: compiled root in 76ms[0m
+2025.01.04 22:21:27 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:27 INFO  time: compiled root in 88ms[0m
+2025.01.04 22:21:39 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:39 INFO  time: compiled root in 80ms[0m
+2025.01.04 22:21:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:45 INFO  time: compiled root in 80ms[0m
+2025.01.04 22:21:51 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:51 INFO  time: compiled root in 99ms[0m
+2025.01.04 22:21:52 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:21:52 INFO  time: compiled root in 90ms[0m
+2025.01.04 22:22:10 ERROR Could not find the correct names for arguments at TextDocumentPositionParams [
+  textDocument = TextDocumentIdentifier [
+    uri = "file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala"
+  ]
+  position = Position [
+    line = 4
+    character = 65
+  ]
+] with indices 0,1[0m
+2025.01.04 22:22:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:22:16 INFO  time: compiled root in 76ms[0m
+Jan 04, 2025 10:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7116
+Jan 04, 2025 10:22:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7152
+2025.01.04 22:22:49 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:22:49 INFO  time: compiled root in 74ms[0m
+2025.01.04 22:22:51 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:22:51 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:23:05 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:05 INFO  time: compiled root in 0.33s[0m
+Jan 04, 2025 10:23:17 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:23:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-23-17-632.md
+2025.01.04 22:23:17 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:23:17 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:23:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-23-17-754.md
+Jan 04, 2025 10:23:18 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 04, 2025 10:23:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-04/r_compiler-error_(root)_22-23-18-071.md
+2025.01.04 22:23:18 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:23:19 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:19 INFO  time: compiled root in 78ms[0m
+2025.01.04 22:23:23 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:23 INFO  time: compiled root in 67ms[0m
+2025.01.04 22:23:31 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:31 INFO  time: compiled root in 90ms[0m
+2025.01.04 22:23:35 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:35 INFO  time: compiled root in 92ms[0m
+2025.01.04 22:23:54 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:23:54 INFO  time: compiled root in 0.31s[0m
+2025.01.04 22:24:11 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:11 INFO  time: compiled root in 0.29s[0m
+2025.01.04 22:24:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:16 INFO  time: compiled root in 71ms[0m
+2025.01.04 22:24:19 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:19 INFO  time: compiled root in 86ms[0m
+2025.01.04 22:24:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:20 INFO  time: compiled root in 80ms[0m
+2025.01.04 22:24:30 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:30 INFO  time: compiled root in 84ms[0m
+2025.01.04 22:24:35 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:35 INFO  time: compiled root in 67ms[0m
+2025.01.04 22:24:40 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:40 INFO  time: compiled root in 86ms[0m
+2025.01.04 22:24:47 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:47 INFO  time: compiled root in 85ms[0m
+2025.01.04 22:24:59 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:24:59 INFO  time: compiled root in 92ms[0m
+2025.01.04 22:25:14 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:14 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:25:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:20 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:25:23 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:23 INFO  time: compiled root in 77ms[0m
+2025.01.04 22:25:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:24 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:25:30 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:30 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:25:40 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:40 INFO  time: compiled root in 0.44s[0m
+2025.01.04 22:25:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:25:45 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:25:47 INFO  time: compiled root in 3ms[0m
+2025.01.04 22:26:01 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:01 INFO  time: compiled root in 0.45s[0m
+2025.01.04 22:26:08 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:08 INFO  time: compiled root in 77ms[0m
+2025.01.04 22:26:15 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:15 INFO  time: compiled root in 72ms[0m
+2025.01.04 22:26:20 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:20 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:26:31 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:31 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:26:34 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:34 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:26:36 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:36 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:26:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:43 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:26:51 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:51 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:26:57 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:26:57 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:27:01 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:27:01 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:27:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:27:04 INFO  time: compiled root in 0.13s[0m
+2025.01.04 22:27:05 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:27:05 INFO  time: compiled root in 95ms[0m
+2025.01.04 22:27:39 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:27:39 INFO  time: compiled root in 0.37s[0m
+2025.01.04 22:28:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:04 INFO  time: compiled root in 0.33s[0m
+2025.01.04 22:28:10 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:10 INFO  time: compiled root in 0.4s[0m
+2025.01.04 22:28:18 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:18 INFO  time: compiled root in 0.4s[0m
+2025.01.04 22:28:22 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:22 INFO  time: compiled root in 99ms[0m
+2025.01.04 22:28:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:25 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+Jan 04, 2025 10:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8535
+2025.01.04 22:28:26 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:27 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:27 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:28:29 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:30 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:30 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:32 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:32 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:33 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:34 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:35 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:35 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:35 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:28:36 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:37 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:37 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:28:37 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:38 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:38 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:28:42 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:43 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:28:43 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:44 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:44 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:28:44 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:45 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:45 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:46 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:46 INFO  time: compiled root in 0.12s[0m
+2025.01.04 22:28:47 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:47 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:48 INFO  time: compiled root in 0.16s[0m
+2025.01.04 22:28:49 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:50 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:51 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:52 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:52 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:52 INFO  time: compiled root in 73ms[0m
+2025.01.04 22:28:53 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:54 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:54 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:55 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:28:56 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:56 INFO  time: compiled root in 0.36s[0m
+Jan 04, 2025 10:28:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8779
+2025.01.04 22:28:59 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:28:59 INFO  time: compiled root in 0.33s[0m
+2025.01.04 22:33:41 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:33:41 INFO  time: compiled root in 0.44s[0m
+2025.01.04 22:33:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:33:48 INFO  time: compiled root in 0.38s[0m
+2025.01.04 22:33:49 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:33:49 INFO  time: compiled root in 0.32s[0m
