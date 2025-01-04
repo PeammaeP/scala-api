@@ -36,8 +36,8 @@ object EntryPointMongo extends App {
     val maybe: Future[client.result.UpdateResult] = collection.updateOne(
         equal("_id" , 0),
         combine(
-            Updates.set("info.x" , 888),
-            Updates.set("info.y" , 777)
+            Updates.set("info.x" , 555),
+            Updates.set("info.y" , 999)
         )
     ).toFuture()
 
@@ -50,5 +50,13 @@ object EntryPointMongo extends App {
     maybeTarget.onComplete{ 
         case Success(value) => println(s"Value ${value.toJson()}")
         case Failure(exception) => println("Couldn't find the document")
+    }
+
+    val maybeDeleted : Future[client.result.DeleteResult] = collection.deleteOne(
+        equal("_id" , 0)
+    ).toFuture()
+    maybeDeleted.onComplete{ 
+        case Success(value) => println(s"Deleted ${value.getDeletedCount()}")
+        case Failure(exception) => println("Fail to Read")
     }
 }

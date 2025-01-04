@@ -1870,3 +1870,85 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2025.01.04 22:02:41 WARN  Could not find semantic tokens for: file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala[0m
 2025.01.04 22:02:52 INFO  compiling root (1 scala source)[0m
 2025.01.04 22:02:52 INFO  time: compiled root in 0.42s[0m
+2025.01.04 22:07:23 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:07:23 INFO  time: compiled root in 0.45s[0m
+2025.01.04 22:07:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:07:24 INFO  time: compiled root in 0.23s[0m
+2025.01.04 22:07:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:07:50 INFO  time: compiled root in 0.55s[0m
+2025.01.04 22:08:58 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:08:58 INFO  time: compiled root in 0.41s[0m
+2025.01.04 22:09:08 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:08 INFO  time: compiled root in 0.46s[0m
+2025.01.04 22:09:16 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:16 INFO  time: compiled root in 71ms[0m
+something's wrong: no file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala in scala.concurrent.Future[<error>]RangePosition(file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/EntryPointMongo.scala, 1958, 1958, 1974)
+2025.01.04 22:09:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:43 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:09:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:45 INFO  time: compiled root in 73ms[0m
+2025.01.04 22:09:49 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:49 INFO  time: compiled root in 62ms[0m
+2025.01.04 22:09:52 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:52 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:09:55 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:09:55 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:10:03 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:10:03 INFO  time: compiled root in 96ms[0m
+2025.01.04 22:10:15 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:10:15 INFO  time: compiled root in 0.43s[0m
+2025.01.04 22:10:39 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:10:39 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:10:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:10:43 INFO  time: compiled root in 0.47s[0m
+2025.01.04 22:10:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:10:50 INFO  time: compiled root in 0.53s[0m
+2025.01.04 22:11:12 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:11:12 INFO  time: compiled root in 0.44s[0m
+2025.01.04 22:17:39 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:44 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:47 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:50 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:52 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:54 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:56 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:17:57 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:18:01 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:18:05 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.04 22:18:11 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+Jan 04, 2025 10:18:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.01.04 22:18:21 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.04 22:18:22 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.04 22:18:22 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.04 22:18:22 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.04 22:18:23 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.04 22:18:23 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.04 22:18:23 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.04 22:18:24 INFO  [info] compiling 1 Scala source to /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2025.01.04 22:18:26 INFO  [info] done compiling[0m
+2025.01.04 22:18:26 INFO  [success] Total time: 2 s, completed Jan 4, 2025, 10:18:26 PM[0m
+2025.01.04 22:18:27 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.04 22:18:27 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.04 22:18:33 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.04 22:18:33 INFO  [success] Generated .bloop/root.json[0m
+2025.01.04 22:18:33 INFO  [success] Total time: 6 s, completed Jan 4, 2025, 10:18:33 PM[0m
+2025.01.04 22:18:33 INFO  time: ran 'sbt bloopInstall' in 12s[0m
+2025.01.04 22:18:33 INFO  Disconnecting from Bloop session...[0m
+2025.01.04 22:18:33 INFO  Shut down connection with build server.[0m
+2025.01.04 22:18:33 INFO  Shut down connection with build server.[0m
+2025.01.04 22:18:33 INFO  Attempting to connect to the build server...[0m
+2025.01.04 22:18:33 INFO  Found a Bloop server running[0m
+2025.01.04 22:18:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.04 22:18:34 INFO  Attempting to connect to the build server...[0m
+2025.01.04 22:18:34 INFO  Found a Bloop server running[0m
+2025.01.04 22:18:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.04 22:18:33 INFO  time: Connected to build server in 0.24s[0m
+2025.01.04 22:18:33 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.04 22:18:33 INFO  running doctor check[0m
+2025.01.04 22:18:33 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.04 22:18:36 INFO  time: indexed workspace in 2.38s[0m
+2025.01.04 22:18:36 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:18:36 INFO  time: compiled root in 0.61s[0m
+2025.01.04 22:18:36 INFO  compiling root-test (1 scala source)[0m
+2025.01.04 22:18:36 INFO  time: compiled root-test in 58ms[0m

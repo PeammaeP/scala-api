@@ -17,13 +17,26 @@
         "classpath": [
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.15/scala-library-2.13.15.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.13/4.6.0/mongo-scala-driver_2.13-4.6.0.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.8/akka-actor-typed_2.13-2.6.8.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.8/akka-stream_2.13-2.6.8.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.15/scala-reflect-2.13.15.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-bson_2.13/4.6.0/mongo-scala-bson_2.13-4.6.0.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.6.0/mongodb-driver-reactivestreams-4.6.0.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.8/akka-actor_2.13-2.6.8.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.8/akka-slf4j_2.13-2.6.8.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.8/akka-protobuf-v3_2.13-2.6.8.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.1/ssl-config-core_2.13-0.4.1.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/bson/4.6.0/bson-4.6.0.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/mongodb-driver-core/4.6.0/mongodb-driver-core-4.6.0.jar",
-            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/projectreactor/reactor-core/3.2.22.RELEASE/reactor-core-3.2.22.RELEASE.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.0/config-1.4.0.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar",
+            "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar",
             "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/bson-record-codec/4.6.0/bson-record-codec-4.6.0.jar"
         ],
         "out": "/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.bloop/root",
@@ -144,13 +157,26 @@
                 "/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.bloop/root/scala-2.13/classes",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.15/scala-library-2.13.15.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.13/4.6.0/mongo-scala-driver_2.13-4.6.0.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.8/akka-actor-typed_2.13-2.6.8.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.8/akka-stream_2.13-2.6.8.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.15/scala-reflect-2.13.15.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-bson_2.13/4.6.0/mongo-scala-bson_2.13-4.6.0.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.6.0/mongodb-driver-reactivestreams-4.6.0.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.8/akka-actor_2.13-2.6.8.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.8/akka-slf4j_2.13-2.6.8.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.8/akka-protobuf-v3_2.13-2.6.8.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.1/ssl-config-core_2.13-0.4.1.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/bson/4.6.0/bson-4.6.0.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/mongodb-driver-core/4.6.0/mongodb-driver-core-4.6.0.jar",
-                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/projectreactor/reactor-core/3.2.22.RELEASE/reactor-core-3.2.22.RELEASE.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.0/config-1.4.0.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar",
+                "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar",
                 "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/bson-record-codec/4.6.0/bson-record-codec-4.6.0.jar"
             ]
         },
@@ -187,6 +213,57 @@
                             "name": "mongo-scala-driver_2.13",
                             "classifier": "sources",
                             "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.13/4.6.0/mongo-scala-driver_2.13-4.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-actor-typed_2.13",
+                    "version": "2.6.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-actor-typed_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.8/akka-actor-typed_2.13-2.6.8.jar"
+                        },
+                        {
+                            "name": "akka-actor-typed_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.8/akka-actor-typed_2.13-2.6.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-stream_2.13",
+                    "version": "2.6.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-stream_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.8/akka-stream_2.13-2.6.8.jar"
+                        },
+                        {
+                            "name": "akka-stream_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.8/akka-stream_2.13-2.6.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-http_2.13",
+                    "version": "10.2.10",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-http_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar"
+                        },
+                        {
+                            "name": "akka-http_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10-sources.jar"
                         }
                     ]
                 },
@@ -242,6 +319,125 @@
                     ]
                 },
                 {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-actor_2.13",
+                    "version": "2.6.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-actor_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.8/akka-actor_2.13-2.6.8.jar"
+                        },
+                        {
+                            "name": "akka-actor_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.8/akka-actor_2.13-2.6.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-slf4j_2.13",
+                    "version": "2.6.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-slf4j_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.8/akka-slf4j_2.13-2.6.8.jar"
+                        },
+                        {
+                            "name": "akka-slf4j_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.8/akka-slf4j_2.13-2.6.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.slf4j",
+                    "name": "slf4j-api",
+                    "version": "1.7.30",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "slf4j-api",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar"
+                        },
+                        {
+                            "name": "slf4j-api",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-protobuf-v3_2.13",
+                    "version": "2.6.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-protobuf-v3_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.8/akka-protobuf-v3_2.13-2.6.8.jar"
+                        },
+                        {
+                            "name": "akka-protobuf-v3_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.8/akka-protobuf-v3_2.13-2.6.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.reactivestreams",
+                    "name": "reactive-streams",
+                    "version": "1.0.3",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "reactive-streams",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar"
+                        },
+                        {
+                            "name": "reactive-streams",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe",
+                    "name": "ssl-config-core_2.13",
+                    "version": "0.4.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "ssl-config-core_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.1/ssl-config-core_2.13-0.4.1.jar"
+                        },
+                        {
+                            "name": "ssl-config-core_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.1/ssl-config-core_2.13-0.4.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-http-core_2.13",
+                    "version": "10.2.10",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-http-core_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar"
+                        },
+                        {
+                            "name": "akka-http-core_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.mongodb",
                     "name": "bson",
                     "version": "4.6.0",
@@ -276,23 +472,6 @@
                     ]
                 },
                 {
-                    "organization": "org.reactivestreams",
-                    "name": "reactive-streams",
-                    "version": "1.0.2",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "reactive-streams",
-                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar"
-                        },
-                        {
-                            "name": "reactive-streams",
-                            "classifier": "sources",
-                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "io.projectreactor",
                     "name": "reactor-core",
                     "version": "3.2.22.RELEASE",
@@ -306,6 +485,74 @@
                             "name": "reactor-core",
                             "classifier": "sources",
                             "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/projectreactor/reactor-core/3.2.22.RELEASE/reactor-core-3.2.22.RELEASE-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe",
+                    "name": "config",
+                    "version": "1.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "config",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.0/config-1.4.0.jar"
+                        },
+                        {
+                            "name": "config",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.0/config-1.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-java8-compat_2.13",
+                    "version": "0.9.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-java8-compat_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0.jar"
+                        },
+                        {
+                            "name": "scala-java8-compat_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-parser-combinators_2.13",
+                    "version": "1.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar"
+                        },
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.akka",
+                    "name": "akka-parsing_2.13",
+                    "version": "10.2.10",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "akka-parsing_2.13",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar"
+                        },
+                        {
+                            "name": "akka-parsing_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/peammaep/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10-sources.jar"
                         }
                     ]
                 },
