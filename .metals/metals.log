@@ -2246,3 +2246,178 @@ WARNING: Unmatched cancel notification for request id 8779
 2025.01.04 22:33:48 INFO  time: compiled root in 0.38s[0m
 2025.01.04 22:33:49 INFO  compiling root (1 scala source)[0m
 2025.01.04 22:33:49 INFO  time: compiled root in 0.32s[0m
+2025.01.04 22:34:24 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:24 INFO  time: compiled root in 66ms[0m
+2025.01.04 22:34:28 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:28 INFO  time: compiled root in 80ms[0m
+2025.01.04 22:34:29 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:29 INFO  time: compiled root in 82ms[0m
+2025.01.04 22:34:30 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:30 INFO  time: compiled root in 62ms[0m
+2025.01.04 22:34:34 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:34 INFO  time: compiled root in 83ms[0m
+2025.01.04 22:34:38 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:38 INFO  time: compiled root in 78ms[0m
+2025.01.04 22:34:40 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:40 INFO  time: compiled root in 71ms[0m
+2025.01.04 22:34:42 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:42 INFO  time: compiled root in 82ms[0m
+2025.01.04 22:34:43 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:43 INFO  time: compiled root in 60ms[0m
+2025.01.04 22:34:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:48 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:34:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:34:50 INFO  time: compiled root in 0.11s[0m
+2025.01.04 22:35:01 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:01 INFO  time: compiled root in 0.37s[0m
+2025.01.04 22:35:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:04 INFO  time: compiled root in 0.35s[0m
+2025.01.04 22:35:09 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:09 INFO  time: compiled root in 0.4s[0m
+2025.01.04 22:35:34 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:34 INFO  time: compiled root in 0.36s[0m
+2025.01.04 22:35:42 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:42 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:35:44 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:44 INFO  time: compiled root in 94ms[0m
+2025.01.04 22:35:46 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:46 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:35:57 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:35:57 INFO  time: compiled root in 0.37s[0m
+2025.01.04 22:36:19 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:36:19 INFO  time: compiled root in 0.39s[0m
+2025.01.04 22:36:25 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:36:25 INFO  time: compiled root in 79ms[0m
+2025.01.04 22:36:27 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:36:27 INFO  time: compiled root in 70ms[0m
+Jan 04, 2025 10:36:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 808,
+      "uri": "file:///Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "object AkkaHttpSimple extends App with AkkaComponent with RoutingComponent {\n  val bindingFuture \u003d Http().newServerAt(\"localhost\" , 8080).bind(route)\n  println(\"Press Enter to Stop Server\")\n  StdIn.readLine()\n}\n"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..211]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:105)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:45)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:45)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:80)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:320)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:276)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:275)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:275)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:240)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:153)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:866)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:227)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:417)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2025.01.04 22:36:52 INFO  compiling root (3 scala sources)[0m
+2025.01.04 22:36:52 INFO  time: compiled root in 0.13s[0m
+2025.01.04 22:36:55 INFO  compiling root (3 scala sources)[0m
+2025.01.04 22:36:55 INFO  time: compiled root in 0.14s[0m
+2025.01.04 22:37:00 INFO  compiling root (3 scala sources)[0m
+2025.01.04 22:37:00 INFO  time: compiled root in 0.14s[0m
+2025.01.04 22:37:04 INFO  compiling root (3 scala sources)[0m
+2025.01.04 22:37:04 INFO  time: compiled root in 0.16s[0m
+2025.01.04 22:37:05 INFO  compiling root (3 scala sources)[0m
+2025.01.04 22:37:05 INFO  time: compiled root in 0.51s[0m
+2025.01.04 22:37:11 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:11 INFO  time: compiled root in 0.29s[0m
+2025.01.04 22:37:12 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:12 INFO  time: compiled root in 0.33s[0m
+2025.01.04 22:37:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:48 INFO  time: compiled root in 72ms[0m
+2025.01.04 22:37:54 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:54 INFO  time: compiled root in 88ms[0m
+2025.01.04 22:37:55 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:55 INFO  time: compiled root in 88ms[0m
+2025.01.04 22:37:59 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:37:59 INFO  time: compiled root in 92ms[0m
+2025.01.04 22:38:04 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:04 INFO  time: compiled root in 0.41s[0m
+2025.01.04 22:38:07 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:07 INFO  time: compiled root in 63ms[0m
+Jan 04, 2025 10:38:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9817
+2025.01.04 22:38:17 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:17 INFO  time: compiled root in 0.1s[0m
+2025.01.04 22:38:23 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:23 INFO  time: compiled root in 0.35s[0m
+2025.01.04 22:38:30 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:30 INFO  time: compiled root in 0.37s[0m
+2025.01.04 22:38:32 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:32 INFO  time: compiled root in 0.33s[0m
+2025.01.04 22:38:41 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:41 INFO  time: compiled root in 0.32s[0m
+2025.01.04 22:38:45 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:45 INFO  time: compiled root in 0.34s[0m
+2025.01.04 22:38:48 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:512)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:948)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2025.01.04 22:38:48 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:48 INFO  time: compiled root in 64ms[0m
+2025.01.04 22:38:49 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/AkkaHttpSimple.scala[0m
+2025.01.04 22:38:50 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:38:50 INFO  time: compiled root in 0.33s[0m
+2025.01.04 22:39:18 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:39:18 INFO  time: compiled root in 0.36s[0m
+2025.01.04 22:39:19 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:39:19 INFO  time: compiled root in 0.15s[0m
+2025.01.04 22:40:12 INFO  compiling root (1 scala source)[0m
+2025.01.04 22:40:13 WARN  Could not load snapshot text for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/Components.scala[0m
+2025.01.04 22:40:12 INFO  time: compiled root in 0.35s[0m
