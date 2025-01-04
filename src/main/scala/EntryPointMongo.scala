@@ -8,6 +8,6 @@ import org.mongodb.scala.model._
 
 import scala.collection.JavaConverters._
 
-object EntryPointMongo {
-  
+object EntryPointMongo extends App {
+    val mongoClient:MongoClient = MongoClient()
 }
