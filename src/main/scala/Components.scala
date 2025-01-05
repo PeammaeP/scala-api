@@ -10,8 +10,33 @@ trait AkkaComponent {
     implicit val executionContext = system.executionContext
 }
 
-trait RoutingComponent {
-    val route: Route = path("hello") { 
-        complete("OK")
+import spray.json.RootJsonFormat
+import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
+
+trait RoutingComponent extends JsonMarshallerComponent {
+    val route: Route = pathPrefix("message") { 
+        ping ~ newMessage
     }
+    val ping: Route = pathEnd { {
+            get{ 
+                complete("OK")
+            }
+        } 
+    }
+    val newMessage: Route = pathEnd { 
+        post { 
+            entity(as[Message]) { message => 
+                println(message)
+                complete("POST")
+            }
+        }
+    }
+}
+
+import spray.json.RootJsonFormat
+import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
+import spray.json.DefaultJsonProtocol._
+
+trait JsonMarshallerComponent { 
+    implicit val messageJson: RootJsonFormat[Message] = jsonFormat3(Message)
 }
