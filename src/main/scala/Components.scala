@@ -13,7 +13,7 @@ trait AkkaComponent {
 import spray.json.RootJsonFormat
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 
-trait RoutingComponent extends JsonMarshallerComponent {
+trait RoutingComponent extends JsonMarshallerComponent with MongoRepository {
     val route: Route = pathPrefix("message") { 
         ping ~ newMessage
     }
@@ -27,6 +27,7 @@ trait RoutingComponent extends JsonMarshallerComponent {
         post { 
             entity(as[Message]) { message => 
                 println(message)
+                newMessage(message)
                 complete("POST")
             }
         }
