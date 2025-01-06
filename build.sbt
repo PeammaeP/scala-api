@@ -12,12 +12,15 @@ lazy val root = (project in file("."))
   .settings(
     name := "essential-scala-api",
     libraryDependencies += munit % Test,
+    // MongoDB 
     libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.6.0", 
     libraryDependencies ++= Seq(
+    // AkkaHttp
     "com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion,
     "com.typesafe.akka" %% "akka-stream" % AkkaVersion,
     "com.typesafe.akka" %% "akka-http" % AkkaHttpVersion,
     "com.typesafe.akka" %% "akka-http-spray-json" % AkkaHttpVersion,
+    // Slick
     "com.typesafe.slick" %% "slick" % "3.4.1",
     "ch.qos.logback" % "logback-classic" % "1.4.5",
     "org.postgresql" % "postgresql" % "42.5.1",
