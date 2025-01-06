@@ -4,6 +4,9 @@ import akka.http.scaladsl.server.Route
 import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.Http
 import scala.io._
+import scala.concurrent.Future
+import org.postgresql.translation.messages_pl
+import akka.http.scaladsl.server.StandardRoute
 
 trait AkkaComponent { 
     implicit val system = ActorSystem(Behaviors.empty, "my-system")
@@ -13,11 +16,12 @@ trait AkkaComponent {
 import spray.json.RootJsonFormat
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 
-trait RoutingComponent extends JsonMarshallerComponent with MongoRepository {
+trait RoutingComponent extends JsonMarshallerComponent with Repository {
     val route: Route = pathPrefix("message") { 
-        ping ~ newMessage
+        ping ~ newMessage ~ allMessage
     }
-    val ping: Route = pathEnd { {
+    val ping: Route = path("ping") { 
+        {
             get{ 
                 complete("OK")
             }
@@ -29,6 +33,15 @@ trait RoutingComponent extends JsonMarshallerComponent with MongoRepository {
                 println(message)
                 newMessage(message)
                 complete("POST")
+            }
+        }
+    }
+    val allMessage = pathEnd { 
+        get{ 
+            val maybeAllMessage: Future[Seq[Message]] = getAllMessage
+            onSuccess(maybeAllMessage) { 
+                case messages: Seq[Message] => complete(messages.toList)
+                case _ => complete(StatusCodes.NotFound) 
             }
         }
     }

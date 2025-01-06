@@ -3511,3 +3511,375 @@ WARNING: Unmatched cancel notification for request id 3282
 2025.01.07 01:00:29 INFO  time: evaluated worksheet 'future.worksheet.sc' in 7.63s[0m
 2025.01.07 01:00:29 INFO  time: compiled root in 0.47s[0m
 2025.01.07 01:01:28 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 01:05:05 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:05 INFO  time: compiled root in 0.28s[0m
+2025.01.07 01:05:12 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:12 INFO  time: compiled root in 0.22s[0m
+2025.01.07 01:05:15 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:15 INFO  time: compiled root in 0.22s[0m
+2025.01.07 01:05:17 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:17 INFO  time: compiled root in 0.22s[0m
+2025.01.07 01:05:28 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:28 INFO  time: compiled root in 78ms[0m
+2025.01.07 01:05:31 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:31 INFO  time: compiled root in 54ms[0m
+2025.01.07 01:05:34 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:34 INFO  time: compiled root in 71ms[0m
+2025.01.07 01:05:36 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:36 INFO  time: compiled root in 50ms[0m
+2025.01.07 01:05:41 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:41 INFO  time: compiled root in 53ms[0m
+2025.01.07 01:05:54 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:54 INFO  time: compiled root in 76ms[0m
+2025.01.07 01:05:56 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:05:56 INFO  time: compiled root in 66ms[0m
+2025.01.07 01:06:03 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:03 INFO  time: compiled root in 53ms[0m
+2025.01.07 01:06:15 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:15 INFO  time: compiled root in 50ms[0m
+2025.01.07 01:06:18 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:18 INFO  time: compiled root in 65ms[0m
+2025.01.07 01:06:20 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:20 INFO  time: compiled root in 67ms[0m
+2025.01.07 01:06:26 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:26 INFO  time: compiled root in 64ms[0m
+2025.01.07 01:06:29 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:29 INFO  time: compiled root in 64ms[0m
+2025.01.07 01:06:37 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:37 INFO  time: compiled root in 0.26s[0m
+2025.01.07 01:06:42 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:06:42 INFO  time: compiled root in 0.24s[0m
+2025.01.07 01:07:00 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:00 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.01.07 01:07:00 INFO  time: compiled root in 0.27s[0m
+2025.01.07 01:07:06 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:06 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.01.07 01:07:06 INFO  time: compiled root in 0.23s[0m
+Jan 07, 2025 1:07:07 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 07, 2025 1:07:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-07/r_compiler-error_(root)_01-07-07-309.md
+Jan 07, 2025 1:07:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3804
+2025.01.07 01:07:10 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:10 INFO  time: compiled root in 77ms[0m
+2025.01.07 01:07:14 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:14 INFO  time: compiled root in 68ms[0m
+2025.01.07 01:07:25 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:25 INFO  time: compiled root in 0.33s[0m
+2025.01.07 01:07:29 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:29 INFO  time: compiled root in 0.33s[0m
+Jan 07, 2025 1:07:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4022
+2025.01.07 01:07:44 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:44 INFO  time: compiled root in 98ms[0m
+2025.01.07 01:07:46 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:46 INFO  time: compiled root in 70ms[0m
+2025.01.07 01:07:49 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:49 INFO  time: compiled root in 0.31s[0m
+2025.01.07 01:07:55 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:07:55 INFO  time: compiled root in 0.33s[0m
+2025.01.07 01:08:03 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:03 INFO  time: compiled root in 0.31s[0m
+2025.01.07 01:08:06 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:06 INFO  time: compiled root in 82ms[0m
+2025.01.07 01:08:20 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:20 INFO  time: compiled root in 88ms[0m
+2025.01.07 01:08:27 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:27 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:08:30 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:30 INFO  time: compiled root in 97ms[0m
+2025.01.07 01:08:40 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:40 INFO  time: compiled root in 0.1s[0m
+2025.01.07 01:08:43 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:43 INFO  time: compiled root in 66ms[0m
+2025.01.07 01:08:47 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:47 INFO  time: compiled root in 97ms[0m
+2025.01.07 01:08:50 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:50 INFO  time: compiled root in 66ms[0m
+2025.01.07 01:08:53 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:53 INFO  time: compiled root in 0.1s[0m
+2025.01.07 01:08:59 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:08:59 INFO  time: compiled root in 78ms[0m
+2025.01.07 01:09:14 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:14 INFO  time: compiled root in 77ms[0m
+2025.01.07 01:09:18 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:18 INFO  time: compiled root in 66ms[0m
+2025.01.07 01:09:23 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:23 INFO  time: compiled root in 54ms[0m
+2025.01.07 01:09:29 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:29 INFO  time: compiled root in 90ms[0m
+2025.01.07 01:09:31 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:31 INFO  time: compiled root in 67ms[0m
+2025.01.07 01:09:33 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:33 INFO  time: compiled root in 53ms[0m
+2025.01.07 01:09:36 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:36 INFO  time: compiled root in 90ms[0m
+Jan 07, 2025 1:09:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4582
+2025.01.07 01:09:41 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:09:41 INFO  time: compiled root in 0.1s[0m
+2025.01.07 01:10:05 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:05 INFO  time: compiled root in 64ms[0m
+2025.01.07 01:10:18 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:18 INFO  time: compiled root in 65ms[0m
+2025.01.07 01:10:23 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:23 INFO  time: compiled root in 53ms[0m
+2025.01.07 01:10:25 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:25 INFO  time: compiled root in 0.1s[0m
+2025.01.07 01:10:29 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:29 INFO  time: compiled root in 56ms[0m
+2025.01.07 01:10:32 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:32 INFO  time: compiled root in 93ms[0m
+2025.01.07 01:10:38 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:38 INFO  time: compiled root in 0.4s[0m
+2025.01.07 01:10:46 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:10:46 INFO  time: compiled root in 0.33s[0m
+2025.01.07 01:11:01 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:11:01 INFO  time: compiled root in 0.35s[0m
+2025.01.07 01:11:16 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:11:16 INFO  time: compiled root in 0.34s[0m
+2025.01.07 01:11:35 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:11:35 INFO  time: compiled root in 0.53s[0m
+2025.01.07 01:11:55 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:11:55 INFO  time: compiled root in 0.46s[0m
+2025.01.07 01:12:02 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:02 INFO  time: compiled root in 0.45s[0m
+2025.01.07 01:12:13 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:13 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:12:16 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:16 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:12:30 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:30 INFO  time: compiled root in 66ms[0m
+2025.01.07 01:12:41 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:41 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:12:46 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:46 INFO  time: compiled root in 0.12s[0m
+Jan 07, 2025 1:12:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5264
+2025.01.07 01:12:51 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:12:51 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:13:03 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:03 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:13:08 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:08 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:13:13 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:13 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:13:28 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:28 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:13:30 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:30 INFO  time: compiled root in 49ms[0m
+2025.01.07 01:13:35 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:35 INFO  time: compiled root in 61ms[0m
+2025.01.07 01:13:44 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:44 INFO  time: compiled root in 57ms[0m
+2025.01.07 01:13:52 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:52 INFO  time: compiled root in 0.15s[0m
+Jan 07, 2025 1:13:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5542
+2025.01.07 01:13:55 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:13:55 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:14:07 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:07 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:14:10 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:10 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:14:16 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:16 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:14:18 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:18 INFO  time: compiled root in 0.13s[0m
+Jan 07, 2025 1:14:20 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 07, 2025 1:14:21 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 07, 2025 1:14:23 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.01.07 01:14:23 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:23 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:14:51 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:51 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:14:53 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:53 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:14:56 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:14:56 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:15:10 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:10 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:15:12 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:12 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:15:14 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:14 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:15:21 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:21 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:15:43 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:43 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:15:49 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:49 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:15:59 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:15:59 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:16:02 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:02 INFO  time: compiled root in 0.11s[0m
+2025.01.07 01:16:04 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:04 INFO  time: compiled root in 0.16s[0m
+Jan 07, 2025 1:16:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6155
+2025.01.07 01:16:20 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:20 INFO  time: compiled root in 0.11s[0m
+2025.01.07 01:16:22 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:22 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:16:40 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:40 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:16:44 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:44 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:16:50 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:16:50 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:17:00 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:00 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:17:35 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:35 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:17:37 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:37 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:17:43 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:43 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:17:53 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:53 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:17:59 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:17:59 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:18:08 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:18:08 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:18:16 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:18:16 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:18:24 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:18:24 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:18:36 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:18:36 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:18:59 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:18:59 INFO  time: compiled root in 58ms[0m
+2025.01.07 01:19:02 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:02 INFO  time: compiled root in 62ms[0m
+2025.01.07 01:19:06 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:06 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:19:13 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:13 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:19:15 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:15 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:19:26 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:26 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:19:28 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:28 INFO  time: compiled root in 74ms[0m
+2025.01.07 01:19:30 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:30 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:19:35 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:35 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:19:42 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:42 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:19:54 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:54 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:19:57 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:57 INFO  time: compiled root in 68ms[0m
+2025.01.07 01:19:58 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:19:58 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:20:09 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:09 INFO  time: compiled root in 0.11s[0m
+2025.01.07 01:20:15 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:15 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:20:19 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:19 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:20:23 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:23 INFO  time: compiled root in 0.11s[0m
+2025.01.07 01:20:32 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:32 INFO  time: compiled root in 0.17s[0m
+2025.01.07 01:20:34 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:34 INFO  time: compiled root in 0.13s[0m
+Jan 07, 2025 1:20:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7230
+2025.01.07 01:20:56 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:20:56 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:21:25 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:25 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:21:32 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:32 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:21:35 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:35 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:21:41 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:41 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:21:47 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:47 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:21:54 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:54 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:21:56 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:21:56 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:22:34 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:22:34 INFO  time: compiled root in 0.15s[0m
+Jan 07, 2025 1:22:40 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 07, 2025 1:22:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/.reports/metals-full/2025-01-07/r_compiler-error_(root)_01-22-40-986.md
+2025.01.07 01:22:41 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:22:41 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:22:55 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:22:55 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:23:01 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:01 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:23:05 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:05 INFO  time: compiled root in 0.16s[0m
+2025.01.07 01:23:08 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:08 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:23:23 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:23 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:23:34 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/src/main/scala/Repository.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:948)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2025.01.07 01:23:34 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:34 INFO  time: compiled root in 65ms[0m
+2025.01.07 01:23:34 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:36 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:23:45 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:45 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:23:47 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:47 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:23:49 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:49 INFO  time: compiled root in 0.17s[0m
+2025.01.07 01:23:59 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:23:59 INFO  time: compiled root in 0.16s[0m
+2025.01.07 01:24:12 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:12 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:24:16 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:16 INFO  time: compiled root in 0.12s[0m
+2025.01.07 01:24:26 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:26 INFO  time: compiled root in 60ms[0m
+2025.01.07 01:24:28 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:28 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:24:29 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:29 INFO  time: compiled root in 0.13s[0m
+2025.01.07 01:24:39 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:24:39 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:25:37 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:25:37 INFO  time: compiled root in 0.14s[0m
+2025.01.07 01:25:40 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:25:40 INFO  time: compiled root in 0.15s[0m
+2025.01.07 01:25:45 INFO  compiling root (2 scala sources)[0m
+2025.01.07 01:25:45 INFO  time: compiled root in 0.13s[0m
