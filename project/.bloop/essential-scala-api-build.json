@@ -214,7 +214,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Users/peammaep/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project"
                 ]
@@ -223,7 +223,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/Users/peammaep/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home",
+                "home": "/opt/homebrew/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project"
                 ]

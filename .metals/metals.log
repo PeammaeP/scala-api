@@ -3348,3 +3348,166 @@ WARNING: Unmatched cancel notification for request id 1857
 2025.01.07 00:46:08 INFO  time: indexed workspace in 1.19s[0m
 2025.01.07 00:47:24 INFO  compiling root (1 scala source)[0m
 2025.01.07 00:47:24 INFO  time: compiled root in 0.37s[0m
+2025.01.07 00:53:52 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.15[0m
+2025.01.07 00:53:52 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.15[0m
+2025.01.07 00:53:52 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 00:53:52 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc. Using presentation compiler with project's scala-library version: 2.13.15[0m
+2025.01.07 00:53:52 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:54:02 INFO  time: evaluated worksheet 'future.worksheet.sc' in 10s[0m
+2025.01.07 00:55:52 INFO  skipping build import with status 'Installed'[0m
+2025.01.07 00:55:52 INFO  Disconnecting from Bloop session...[0m
+2025.01.07 00:55:52 INFO  Cancelling compilation on Bloop server[0m
+2025.01.07 00:55:52 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt. Using presentation compiler with project's scala-library version: 2.13.15[0m
+2025.01.07 00:55:52 INFO  Shut down connection with build server.[0m
+2025.01.07 00:55:52 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:55:52 INFO  Shut down connection with build server.[0m
+2025.01.07 00:55:52 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:55:52 INFO  Found a Bloop server running[0m
+2025.01.07 00:55:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:55:52 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:55:52 INFO  Found a Bloop server running[0m
+2025.01.07 00:55:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:55:52 INFO  time: Connected to build server in 0.23s[0m
+2025.01.07 00:55:52 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.07 00:55:52 INFO  running doctor check[0m
+2025.01.07 00:55:52 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.07 00:55:53 INFO  time: indexed workspace in 1.51s[0m
+2025.01.07 00:55:53 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 00:55:54 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:55:54 INFO  time: compiled essential-scala-api-build in 7ms[0m
+2025.01.07 00:56:05 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:56:15 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.07 00:56:16 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.07 00:56:16 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.07 00:56:16 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.07 00:56:17 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.07 00:56:17 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.07 00:56:18 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.07 00:56:18 INFO  [info] compiling 1 Scala source to /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2025.01.07 00:56:20 INFO  [info] done compiling[0m
+2025.01.07 00:56:20 INFO  [success] Total time: 3 s, completed Jan 7, 2025, 12:56:20 AM[0m
+2025.01.07 00:56:21 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:32: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:56:21 ERROR mainClass in (Compile, run) := Some("AkkaHttpSimple")[0m
+2025.01.07 00:56:21 ERROR           ^[0m
+2025.01.07 00:56:21 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:35: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:56:21 ERROR TaskKey[Unit]("initialDatabase") := (runMain in Compile)[0m
+2025.01.07 00:56:21 ERROR                                              ^[0m
+2025.01.07 00:56:22 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.07 00:56:22 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.07 00:56:22 INFO  [success] Generated .bloop/root.json[0m
+2025.01.07 00:56:22 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.07 00:56:22 INFO  [success] Total time: 0 s, completed Jan 7, 2025, 12:56:22 AM[0m
+2025.01.07 00:56:22 INFO  time: ran 'sbt bloopInstall' in 7.2s[0m
+2025.01.07 00:56:22 INFO  Disconnecting from Bloop session...[0m
+2025.01.07 00:56:22 INFO  Shut down connection with build server.[0m
+2025.01.07 00:56:22 INFO  Shut down connection with build server.[0m
+2025.01.07 00:56:22 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:56:22 INFO  Found a Bloop server running[0m
+2025.01.07 00:56:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:56:22 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:56:22 INFO  Found a Bloop server running[0m
+2025.01.07 00:56:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:56:22 INFO  time: Connected to build server in 0.23s[0m
+2025.01.07 00:56:22 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.07 00:56:22 INFO  running doctor check[0m
+2025.01.07 00:56:22 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.07 00:56:23 INFO  time: indexed workspace in 1.16s[0m
+2025.01.07 00:56:23 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 00:56:41 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:56:44 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:56:46 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.07 00:56:47 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.07 00:56:47 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.07 00:56:47 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.07 00:56:48 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.07 00:56:48 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.07 00:56:48 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.07 00:56:49 INFO  [info] compiling 1 Scala source to /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2025.01.07 00:56:50 INFO  [info] done compiling[0m
+2025.01.07 00:56:50 INFO  [success] Total time: 2 s, completed Jan 7, 2025, 12:56:50 AM[0m
+2025.01.07 00:56:52 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:32: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:56:52 ERROR mainClass in (Compile, run) := Some("AkkaHttpSimple")[0m
+2025.01.07 00:56:52 ERROR           ^[0m
+2025.01.07 00:56:52 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:35: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:56:52 ERROR TaskKey[Unit]("initialDatabase") := (runMain in Compile)[0m
+2025.01.07 00:56:52 ERROR                                              ^[0m
+2025.01.07 00:56:52 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.07 00:56:52 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.07 00:56:52 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.07 00:56:52 INFO  [success] Generated .bloop/root.json[0m
+2025.01.07 00:56:52 INFO  [success] Total time: 0 s, completed Jan 7, 2025, 12:56:52 AM[0m
+2025.01.07 00:56:52 INFO  time: ran 'sbt bloopInstall' in 6.55s[0m
+2025.01.07 00:56:52 INFO  Disconnecting from Bloop session...[0m
+2025.01.07 00:56:52 INFO  Shut down connection with build server.[0m
+2025.01.07 00:56:52 INFO  Shut down connection with build server.[0m
+2025.01.07 00:56:52 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:56:52 INFO  Found a Bloop server running[0m
+2025.01.07 00:56:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:56:52 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:56:52 INFO  Found a Bloop server running[0m
+2025.01.07 00:56:52 INFO  no build target found for /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt. Using presentation compiler with project's scala-library version: 2.13.15[0m
+2025.01.07 00:56:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:56:52 INFO  time: Connected to build server in 0.22s[0m
+2025.01.07 00:56:52 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.07 00:56:53 INFO  running doctor check[0m
+2025.01.07 00:56:53 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.07 00:56:54 INFO  time: indexed workspace in 1.15s[0m
+2025.01.07 00:56:54 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 00:59:18 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:59:19 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+Jan 07, 2025 12:59:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3226
+2025.01.07 00:59:22 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:59:25 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:59:41 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.07 00:59:41 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m
+2025.01.07 00:59:42 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.07 00:59:42 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.07 00:59:42 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.07 00:59:43 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.07 00:59:43 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.07 00:59:43 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.07 00:59:44 INFO  [info] compiling 1 Scala source to /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/target/scala-2.12/sbt-1.0/classes ...[0m
+2025.01.07 00:59:45 INFO  [info] done compiling[0m
+2025.01.07 00:59:45 INFO  [success] Total time: 2 s, completed Jan 7, 2025, 12:59:45 AM[0m
+2025.01.07 00:59:47 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:32: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:59:47 ERROR mainClass in (Compile, run) := Some("AkkaHttpSimple")[0m
+2025.01.07 00:59:47 ERROR           ^[0m
+2025.01.07 00:59:47 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:35: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:59:47 ERROR TaskKey[Unit]("initialDatabase") := (runMain in Compile)[0m
+2025.01.07 00:59:47 ERROR                                              ^[0m
+2025.01.07 00:59:47 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.07 00:59:47 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.07 00:59:47 INFO  [success] Generated .bloop/root.json[0m
+2025.01.07 00:59:47 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.07 00:59:47 INFO  [success] Total time: 0 s, completed Jan 7, 2025, 12:59:47 AM[0m
+2025.01.07 00:59:47 INFO  time: ran 'sbt bloopInstall' in 6.36s[0m
+2025.01.07 00:59:47 INFO  Disconnecting from Bloop session...[0m
+2025.01.07 00:59:47 INFO  Shut down connection with build server.[0m
+2025.01.07 00:59:47 INFO  Shut down connection with build server.[0m
+2025.01.07 00:59:47 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:59:47 INFO  Found a Bloop server running[0m
+2025.01.07 00:59:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:59:47 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:59:47 INFO  Found a Bloop server running[0m
+2025.01.07 00:59:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:59:47 INFO  time: Connected to build server in 0.23s[0m
+2025.01.07 00:59:47 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.07 00:59:47 INFO  running doctor check[0m
+2025.01.07 00:59:47 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.07 00:59:48 INFO  time: indexed workspace in 1.1s[0m
+2025.01.07 00:59:48 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+Jan 07, 2025 1:00:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3278
+Jan 07, 2025 1:00:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3277
+Jan 07, 2025 1:00:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3283
+Jan 07, 2025 1:00:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3282
+2025.01.07 01:00:17 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 01:00:22 WARN  no build target for: /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/future.worksheet.sc[0m
+2025.01.07 01:00:29 INFO  compiling root (1 scala source)[0m
+2025.01.07 01:00:29 INFO  time: evaluated worksheet 'future.worksheet.sc' in 7.63s[0m
+2025.01.07 01:00:29 INFO  time: compiled root in 0.47s[0m
+2025.01.07 01:01:28 WARN  Bloop is running with 21.0.2 but your code requires 23.0.1 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version[0m

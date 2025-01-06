@@ -33,7 +33,7 @@ mainClass in (Compile, run) := Some("AkkaHttpSimple")
 
 // set the main class for 'sbt initData'
 TaskKey[Unit]("initialDatabase") := (runMain in Compile)
-.toTask(" InitialDatabase")
-.value
+  .toTask(" InitialDatabase")
+  .value
 
 // See https://www.scala-sbt.org/1.x/docs/Using-Sonatype.html for instructions on how to publish to Sonatype.
