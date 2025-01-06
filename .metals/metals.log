@@ -3311,3 +3311,38 @@ WARNING: Unmatched cancel notification for request id 1857
 2025.01.07 00:43:38 INFO  time: compiled root in 0.37s[0m
 2025.01.07 00:43:41 INFO  compiling root (1 scala source)[0m
 2025.01.07 00:43:41 INFO  time: compiled root in 0.33s[0m
+2025.01.07 00:46:01 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.07 00:46:02 INFO  skipping build import with status 'Started'[0m
+2025.01.07 00:46:02 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 21.0.2)[0m
+2025.01.07 00:46:02 INFO  [info] loading settings for project essential-scala-api-build-build from metals.sbt...[0m
+2025.01.07 00:46:02 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/project[0m
+2025.01.07 00:46:03 INFO  [info] loading settings for project essential-scala-api-build from metals.sbt...[0m
+2025.01.07 00:46:03 INFO  [info] loading project definition from /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project[0m
+2025.01.07 00:46:03 INFO  [success] Generated .bloop/essential-scala-api-build.json[0m
+2025.01.07 00:46:05 INFO  [success] Total time: 1 s, completed Jan 7, 2025, 12:46:05 AM[0m
+2025.01.07 00:46:06 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:32: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:46:06 ERROR mainClass in (Compile, run) := Some("AkkaHttpSimple")[0m
+2025.01.07 00:46:06 ERROR           ^[0m
+2025.01.07 00:46:06 ERROR /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/build.sbt:35: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+2025.01.07 00:46:06 ERROR TaskKey[Unit]("initialDatabase") := (runMain in Compile)[0m
+2025.01.07 00:46:06 ERROR                                              ^[0m
+2025.01.07 00:46:06 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.07 00:46:06 INFO  [info] set current project to essential-scala-api (in build file:/Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/)[0m
+2025.01.07 00:46:06 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.07 00:46:06 INFO  [success] Generated .bloop/root.json[0m
+2025.01.07 00:46:06 INFO  [success] Total time: 0 s, completed Jan 7, 2025, 12:46:06 AM[0m
+2025.01.07 00:46:07 INFO  time: ran 'sbt bloopInstall' in 5.26s[0m
+2025.01.07 00:46:07 INFO  Disconnecting from Bloop session...[0m
+2025.01.07 00:46:07 INFO  Shut down connection with build server.[0m
+2025.01.07 00:46:07 INFO  Shut down connection with build server.[0m
+2025.01.07 00:46:07 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:46:07 INFO  Found a Bloop server running[0m
+2025.01.07 00:46:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:46:07 INFO  Attempting to connect to the build server...[0m
+2025.01.07 00:46:07 INFO  Found a Bloop server running[0m
+2025.01.07 00:46:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/peammaep/Desktop/PeamMiiZ.A/Project/skooldio/essential-scala-api/project/.metals/bsp.trace.json or /Users/peammaep/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 00:46:07 INFO  time: Connected to build server in 0.23s[0m
+2025.01.07 00:46:07 INFO  Connected to Build server: Bloop v2.0.6[0m
+2025.01.07 00:46:07 INFO  running doctor check[0m
+2025.01.07 00:46:07 INFO  java targets: root-test, root, essential-scala-api-build[0m
+2025.01.07 00:46:08 INFO  time: indexed workspace in 1.19s[0m
