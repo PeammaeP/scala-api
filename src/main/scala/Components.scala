@@ -41,3 +41,12 @@ import spray.json.DefaultJsonProtocol._
 trait JsonMarshallerComponent { 
     implicit val messageJson: RootJsonFormat[Message] = jsonFormat3(Message)
 }
+
+import slick.jdbc.PostgresProfile
+import slick.jdbc.PostgresProfile.api._
+import slick.lifted.TableQuery
+
+trait SlickComponent {
+    lazy val messages: TableQuery[MessageTable] = TableQuery[MessageTable]
+    val db: PostgresProfile.backend.DatabaseDef = Database.forConfig("basicSlick")
+}
