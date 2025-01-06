@@ -1,7 +1,7 @@
 import akka.http.scaladsl.Http
 import scala.io._
 
-object AkkaHttpSimple extends AkkaComponent with RoutingComponent {
+object AkkaHttpSimple extends App with AkkaComponent with RoutingComponent {
   val bindingFuture = Http().newServerAt("localhost" , 8080).bind(route)
   println("Press Enter to Stop Server")
   

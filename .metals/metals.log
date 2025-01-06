@@ -3346,3 +3346,5 @@ WARNING: Unmatched cancel notification for request id 1857
 2025.01.07 00:46:07 INFO  running doctor check[0m
 2025.01.07 00:46:07 INFO  java targets: root-test, root, essential-scala-api-build[0m
 2025.01.07 00:46:08 INFO  time: indexed workspace in 1.19s[0m
+2025.01.07 00:47:24 INFO  compiling root (1 scala source)[0m
+2025.01.07 00:47:24 INFO  time: compiled root in 0.37s[0m
